@@ -28,6 +28,6 @@ David can operate a number of different computer controlled (CNC) fabrication to
 
 The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
 
-![David Florian](https://upload.wikimedia.org/wikipedia/commons/6/6f/Einstein-formal_portrait-35.jpg)
+![David Florian](/assets/img/David_Headshot_web2.jpg)
 
 
