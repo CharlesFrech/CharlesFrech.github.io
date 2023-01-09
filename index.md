@@ -22,6 +22,6 @@ feature_row:
     title: "Bespoke IDEX 3D Printer"
     excerpt: "Multimaterial printing. "
 ---
-
+{% include feature_row id="intro" type="center" %}
 {% include feature_row %}
 
