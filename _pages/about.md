@@ -28,8 +28,8 @@ Charlie is profiecient in CAD modeling softwares like Fushion 360 and AutoCad. H
 ## Major Awards and Accomplishments
 Some of Charlie's major past accomplishments include:
 
-* Class valedictorian
-* Student Body President
+* High school valedictorian
+* High school student body president
 * National Merit Scholar
 * National AP Scholar with Distinction
 
