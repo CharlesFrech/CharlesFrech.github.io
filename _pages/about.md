@@ -25,6 +25,14 @@ Charlie currently works as an undergraduate reseracher in the Bellan Lab for Adv
 
 Charlie is profiecient in CAD modeling softwares like Fushion 360 and AutoCad. He is also able to convert these models into real-life parts using additive manufacturing technologies like fused filament fabrication (FFF) and resin printing.
 
-![David Florian](/assets/img/David_Headshot_web2.jpg)
+## Major Awards and Accomplishments
+Some of Charlie's major past accomplishments include:
+
+* Class valedictorian
+* Student Body President
+* National Merit Scholar
+* National AP Scholar with Distinction
+
+![Charlie Frech](/assets/img/CharlieHeadShot.JPG)
 
 
