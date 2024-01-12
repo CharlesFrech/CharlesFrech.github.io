@@ -10,17 +10,14 @@ header:
       url: "/portfolio/"
 excerpt: "Charles (Charlie) Frech is an undergaduate student at Vanderbilt University majoring in biomedical engineering and minoring in digital fabrications. He is particularly interested in merging his passion of additive manufacturing processes with biological systems. In his free time, Charlie loves to play soccer and hike (especially in his home state of Utah)."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
+  - image_path: assets/img/CharlieEngineering.jpg
     alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+    title: "Charlie at Engineering Building at Vanderbilt"
+  - image_path: assets/img/CharlieSoccer.jpg
     alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+    title: "Charlie Playing Soccer"
+  - image_path: assets/img/CharlieHiking.jpg
+    title: "Charlie Hikes Mount Olympus in Utah"
 ---
 
 {% include feature_row %}
