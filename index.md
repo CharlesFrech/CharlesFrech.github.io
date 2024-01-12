@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Home"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Charles (Charlie) Frech is an undergaduate student at Vanderbilt University majoring in biomedical engineering and minoring in digital fabrications. He is particularly interested in merging his passion of additive manufacturing processes with biological systems. In his free time, Charlie loves to play soccer and hike (especially in his home state of Utah).
+excerpt: "Charles (Charlie) Frech is an undergaduate student at Vanderbilt University majoring in biomedical engineering and minoring in digital fabrications. He is particularly interested in merging his passion of additive manufacturing processes with biological systems. In his free time, Charlie loves to play soccer and hike (especially in his home state of Utah)."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
@@ -22,4 +22,6 @@ feature_row:
     title: "Bespoke IDEX 3D Printer"
     excerpt: "Multimaterial printing. "
 ---
+
 {% include feature_row %}
+
