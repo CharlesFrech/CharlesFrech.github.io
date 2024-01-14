@@ -23,7 +23,7 @@ that would eliminate any chance of wobbling and rotating in the yaw or pitch dir
 
 #Off the Shelf Parts Required
 |      Part                                                            |     Image/Link|
-| ---------------------------------------------------------------------|:-------------:|
+| ---------------------------------------------------------------------|:-------------------------:|
 | 250 mm lead screw with 2 mm pitch and 8 mm lead                      | (https://amzn.to/3infwI0) |
 | 1/4" x 8 mm Flexible Coupler                                         | centered      |
 | 200 mm linear rod with 8 mm diameter                                 | are neat      |  
