@@ -23,6 +23,7 @@ Firstly, three mounts were designed to hold the body, the plunger, and the syrin
 <summary>Off the Shelf Parts</summary>
 
 
+
 |      Part                                                            |     Image/Link             |
 | ---------------------------------------------------------------------|:--------------------------:|
 | 250 mm lead screw with 2 mm pitch and 8 mm lead                      | (https://amzn.to/3infwI0)  |
@@ -41,11 +42,12 @@ Firstly, three mounts were designed to hold the body, the plunger, and the syrin
 | Electrical components including wires and resistors                  | are neat                   | 
 
 
+
 </details>
 
 |      Part                                                            |     Image/Link             |
 | ---------------------------------------------------------------------|:--------------------------:|
-| 250 mm lead screw with 2 mm pitch and 8 mm lead                      | (https://amzn.to/3infwI0)  |
+| [250 mm lead screw with 2 mm pitch and 8 mm lead](https://amzn.to/3infwI0)                      | hi |
 | 1/4" x 8 mm Flexible Coupler                                         | centered                   |
 | 200 mm linear rod with 8 mm diameter                                 | are neat                   |  
 | LMUU linear bearing for 8 mm diamter rod                             | are neat                   | 
