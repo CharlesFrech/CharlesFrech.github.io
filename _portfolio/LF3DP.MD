@@ -2,10 +2,10 @@
 title: "Syringe Pump"
 excerpt: "A stepper motor driven syringe pump primarily made of 3D printed parts with a precise flow rate and compatiblity with syringes of volumes ranging from 20 to 10 mL."
 header:
-  image: /assets/img/Screenshot 2024-01-14 124656.png
+  image: /assets/img/FromAfarSP.jpg
   teaser: /assets/img/Screenshot 2024-01-14 124656.png
 gallery:
-  - image_path: assets/img/FromAfarSP.jpg
+  - image_path: assets/img/Screenshot 2024-01-14 124656.png
   - image_path: assets/img/ElectricalSP.jpg
   - image_path: assets/img/AerialSP.jpg
    
@@ -55,7 +55,7 @@ Firstly, three mounts were designed to hold the body, the plunger, and the syrin
 # Instructions for Operation
 
 To operate the pump, the user must first load the syringe. The outward extrusions (the holders 
-designed for human fingers) should fit into the middle support. The tip of the syringe should be rested on the end support, facing away from the motor. Finally, the end part of the plunger should be placed in the  extrusion located at the top of the carriage. Then, the person operating this device may plug it in to turn it  on. The user can then press the latching button, which serves as a start/stop button, to start the syringe pump. The LED will turn green, and the device will begin dispensing liquid. If the user presses the latching button again, the motor will stop moving, and the LED will turn yellow. Finally, when the carriage holding the syringe hits the limit switch on the middle mount, the motor stops, and the LED turns red. This outcome occurs when the syringe is empty. The design also contains two additional buttons that change the direction of the motor’s rotation. Because the motor can rotate clockwise and counterclockwise, the syringe can fill and expel liquids using these buttons at a constant rate. A user operates this multi-directional pump feature by simply holding one of the two buttons (whichever one is linked to the desired motion).
+designed for human fingers) should fit into the middle support. The tip of the syringe should be rested on the end support, facing away from the motor. Finally, the end part of the plunger should be placed in the  extrusion located at the top of the carriage. Then, the person operating this device may plug it in to turn it  on. The user can then press the latching button, which serves as a start/stop button, to start the syringe pump. The LED will turn green, and the device will begin dispensing liquid. If the user presses the latching button again, the motor will stop moving, and the LED will turn yellow. Finally, when the carriage holding the syringe hits the limit switch on the middle mount, the motor stops, and the LED turns red. This outcome occurs when the syringe is empty. The design also contains two additional buttons that change the direction of the motor’s rotation. Because the motor can rotate clockwise and counterclockwise, the syringe can fill and expel liquids using these buttons at a constant rate. A user operates this multi-directional pump feature by simply holding one of the two buttons (whichever one is linked to the desired motion). A video of operation can be found [here](https://drive.google.com/drive/folders/1s0FM1NEmiLGKT7h9kciig2gYD0h-9A-2?usp=sharing).
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e10515e96ce3f04fe?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
