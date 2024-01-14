@@ -18,48 +18,21 @@ Firstly, three mounts were designed to hold the body, the plunger, and the syrin
 * **Electrical Components** The syringe pump contains one latching push button, two non-latching push buttons, one multicolored LED, and one limit switch. One of the buttons is a push button, which stops and starts the motion of the stepper motor depending on whether it is in a high or low state (pressed or unpressed). When the latching push button is pressed, the LED becomes green, and the motion occurs. When the latching push button is unpressed, the LED becomes yellow, and the motion halts. Another method to control the motion of the motor is the limit switch. When the syringe is fully emptied, the carriage presses the limit switch. When this occurs, the motion of the motor stops, and the LED turns red. Another control mechanism implemented for the motion of the syringe pump utilized the two non-latching push buttons. When the left push button is held in the pressed position, the syringe moves back to a starting position so that new fluid can be put into the syringe. When the right push button is held in the pressed position, the syringe is emptied at a constant rate. 
 * **Programming** The syringe is programmed using the Arduino IDE. The program begins by initializing variables for the motor, flow rate, speed, syringe diameter, lead screw pitch, button inputs (including the limit switch), and LED inputs. The setup function receives a max speed, sets the speed based on the flow rate, and defines the pin more for the buttons and LEDs. In the loop of the function, the base color values of the LED are preset to be zero so that they can be updated later. Then, the start/stop button is checked. If  the button is pressed, then the speed is set using the convert flow to speed function, and the LED is changed to green. If the button is not pressed, the speed will be set to 0, and the LED values will update to a yellow color to signify that the motor is paused. Next, the program checks if the counterclockwise button is pressed; if so, the speed is set to -50 so that the syringe moves backwards. Then, the limit switch is checked. If the limit switch is pressed, the speed is set to 0, and the LED values are assigned to red color values. The limit switch is checked after the counterclockwise button so the syringe can move backwards even if the limit switch is pressed. Then, if the clockwise button is pressed, the speed is set to a constant 50. This button is checked after the limit switch so the carriage will not run into the other components. Lastly, the final LED values are written to the LED pins, and the run speeds are set in the stepper to move the motor. An additional function to convert the flow rate to speed uses an equation for the global speed variable. This function is called in the loop.
 
-<details>
-
-<summary>Off the Shelf Parts</summary>
-
-
-
-|      Part                                                            |     Image/Link             |
-| ---------------------------------------------------------------------|:--------------------------:|
-| 250 mm lead screw with 2 mm pitch and 8 mm lead                      | (https://amzn.to/3infwI0)  |
-| 1/4" x 8 mm Flexible Coupler                                         | centered                   |
-| 200 mm linear rod with 8 mm diameter                                 | are neat                   |  
-| LMUU linear bearing for 8 mm diamter rod                             | are neat                   | 
-| 20 x 40 V-Slot Aluminum Linear Rail                                  | are neat                   | 
-| NEMA 17 stepper motor                                                | are neat                   | 
-| MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp | are neat                   | 
-| Arduino Uno                                                          | are neat                   | 
-| A4988 stepper driver                                                 | are neat                   | 
-| REXQualist 400 point breadboard                                      | are neat                   | 
-| Panel mount latching push buttons                                    | are neat                   | 
-| Limit switch                                                         | are neat                   | 
-| RGB common cathode LED                                               | are neat                   | 
-| Electrical components including wires and resistors                  | are neat                   | 
-
-
-
-</details>
-
 |      Part                                                            |     Image/Link             |
 | ---------------------------------------------------------------------|:--------------------------:|
 | [250 mm lead screw with 2 mm pitch and 8 mm lead](https://amzn.to/3infwI0)                      | hi |
-| 1/4" x 8 mm Flexible Coupler                                         | centered                   |
-| 200 mm linear rod with 8 mm diameter                                 | are neat                   |  
-| LMUU linear bearing for 8 mm diamter rod                             | are neat                   | 
-| 20 x 40 V-Slot Aluminum Linear Rail                                  | are neat                   | 
-| NEMA 17 stepper motor                                                | are neat                   | 
-| MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp | are neat                   | 
-| Arduino Uno                                                          | are neat                   | 
-| A4988 stepper driver                                                 | are neat                   | 
-| REXQualist 400 point breadboard                                      | are neat                   | 
-| Panel mount latching push buttons                                    | are neat                   | 
-| Limit switch                                                         | are neat                   | 
-| RGB common cathode LED                                               | are neat                   | 
+| [1/4" x 8 mm Flexible Coupler](https://openbuildspartstore.com/1-4-x-8mm-flexible-coupling/)                                         | centered                   |
+| [200 mm linear rod with 8 mm diameter](https://www.amazon.com/dp/B07MPGWJMS/ref=cm_sw_em_r_mt_dp_X5AQS0ES7JH8JG83AAZ3)                                 | are neat                   |  
+| [LMUU linear bearing for 8 mm diamter rod](https://www.amazon.com/gp/product/B087WPGQ8T/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1)                             | are neat                   | 
+| [20 x 40 V-Slot Aluminum Linear Rail](https://openbuildspartstore.com/v-slot-20x40-linear-rail/)                                  | are neat                   | 
+| [NEMA 17 stepper motor](https://www.amazon.com/gp/product/B07LF898KN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)                                                | are neat                   | 
+| [MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp](https://www.amazon.com/dp/B005T9HGLI/ref=cm_sw_em_r_mt_dp_A8CZ056TM52EJGZTGZGR?_encoding=UTF8&psc=1) | are neat                   | 
+| [Arduino Uno](https://www.amazon.com/dp/B007R9TUJE/ref=cm_sw_em_r_mt_dp_TY8JGK0CJD1JEJM4BNNJ)                                                          | are neat                   | 
+| [A4988 stepper driver](https://www.amazon.com/dp/B01FFGAKK8/ref=cm_sw_em_r_mt_dp_V0YKTYKDWMR8WHTKA53T?_encoding=UTF8&psc=1)                                                 | are neat                   | 
+| [REXQualist 400 point breadboard](https://www.amazon.com/dp/B082VYXDF1/ref=cm_sw_em_r_mt_dp_N6Q28CAGPAYCKCSJKDDC?_encoding=UTF8&psc=1)                                      | are neat                   | 
+| [Panel mount latching push buttons](https://amzn.to/3VxQ29h)                                    | are neat                   | 
+| [Limit switch](https://www.amazon.com/gp/product/B073TYWX86/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)                                                         | are neat                   | 
+| [RGB common cathode LED](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1)                                               | are neat                   | 
 | Electrical components including wires and resistors                  | are neat                   | 
 
 # Instructions for Operation
