@@ -2,12 +2,12 @@
 title: "Syringe Pump"
 excerpt: "A stepper motor driven syringe pump primarily made of 3D printed parts with a precise flow rate and compatiblity with syringes of volumes ranging from 20 to 10 mL."
 header:
-  image: /assets/img/LF3DP-Banner-2.jpg
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
+  image: /assets/img/Screenshot 2024-01-14 124656.png
+  teaser: /assets/img/Screenshot 2024-01-14 124656.png
 gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
+  - image_path: assets/img/FromAfarSP.jpg
+  - image_path: assets/img/ElectricalSP.jpg
+  - image_path: assets/img/AerialSP.jpg
    
 ---
 
