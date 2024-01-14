@@ -19,7 +19,7 @@ Firstly, three mounts were designed to hold the body, the plunger, and the syrin
 * **Programming** The syringe is programmed using the Arduino IDE. The program begins by initializing variables for the motor, flow rate, speed, syringe diameter, lead screw pitch, button inputs (including the limit switch), and LED inputs. The setup function receives a max speed, sets the speed based on the flow rate, and defines the pin more for the buttons and LEDs. In the loop of the function, the base color values of the LED are preset to be zero so that they can be updated later. Then, the start/stop button is checked. If  the button is pressed, then the speed is set using the convert flow to speed function, and the LED is changed to green. If the button is not pressed, the speed will be set to 0, and the LED values will update to a yellow color to signify that the motor is paused. Next, the program checks if the counterclockwise button is pressed; if so, the speed is set to -50 so that the syringe moves backwards. Then, the limit switch is checked. If the limit switch is pressed, the speed is set to 0, and the LED values are assigned to red color values. The limit switch is checked after the counterclockwise button so the syringe can move backwards even if the limit switch is pressed. Then, if the clockwise button is pressed, the speed is set to a constant 50. This button is checked after the limit switch so the carriage will not run into the other components. Lastly, the final LED values are written to the LED pins, and the run speeds are set in the stepper to move the motor. An additional function to convert the flow rate to speed uses an equation for the global speed variable. This function is called in the loop. The complete code for the code can be found [here](https://github.com/CharlesFrech/SyringePump/blob/master/main/main.ino).
 
 
-#Off the Shelf Parts
+# Off the Shelf Parts
 
 |      Part                                                            |     Quantity            |
 | ---------------------------------------------------------------------|:--------------------------:|
@@ -39,7 +39,7 @@ Firstly, three mounts were designed to hold the body, the plunger, and the syrin
 | [RGB common cathode LED](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1)                                               | 1                   | 
 | Electrical components including wires and resistors                  | Varies on wiring                  | 
 
-#Custom Designed Parts
+# Custom Designed Parts
 
 |      Custom Part                                                     |      
 | ---------------------------------------------------------------------|
