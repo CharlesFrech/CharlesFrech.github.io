@@ -1,6 +1,6 @@
 ---
 title: "Syringe Pump"
-excerpt: "A stepper motor driven syringe pump primarily cmposed of 3D parts made from PLA and ABS with a precise flow rate and compatiblity with syringes with diameters ranging from 20 mL to 10 mL."
+excerpt: "A stepper motor driven syringe pump primarily made of 3D printed parts with a precise flow rate and compatiblity with syringes of volumes ranging from 20 to 10 mL."
 header:
   image: /assets/img/LF3DP-Banner-2.jpg
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
@@ -22,13 +22,13 @@ that would eliminate any chance of wobbling and rotating in the yaw or pitch dir
 
 
 #Off the Shelf Parts Required
-|      Part                                                            |     Image/Link     |
-| ------------------------------------------------                     |:-------------:|
-| 250 mm lead screw with 2 mm pitch and 8 mm lead                      | [Lead Screw] (https://amzn.to/3infwI0) |
-| 1/4" x 8 mm Flexible Coupler                                         | centered              |
-| 200 mm linear rod with 8 mm diameter                                 | are neat               |  
-| LMUU linear bearing for 8 mm diamter rod                             | are neat                  | 
-| 20 x 40 V-Slot Aluminum Linear Rail                                  | are neat                   | 
+|      Part                                                            |     Image/Link|
+| ---------------------------------------------------------------------|:-------------:|
+| 250 mm lead screw with 2 mm pitch and 8 mm lead                      | (https://amzn.to/3infwI0) |
+| 1/4" x 8 mm Flexible Coupler                                         | centered      |
+| 200 mm linear rod with 8 mm diameter                                 | are neat      |  
+| LMUU linear bearing for 8 mm diamter rod                             | are neat      | 
+| 20 x 40 V-Slot Aluminum Linear Rail                                  | are neat      | 
 | NEMA 17 stepper motor                                                | are neat      | 
 | MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp | are neat      | 
 | Arduino Uno                                                          | are neat      | 
