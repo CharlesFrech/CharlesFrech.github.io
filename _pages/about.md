@@ -6,7 +6,7 @@ title: "About Charles (Charlie) Frech"
 
 ## Education
  
-Charlie prides himself on his work ethic and eagerness to explore new topics. His current most prominent field of interest includes the fabricatoin of biomaterials. 
+Charlie prides himself on his work ethic and eagerness to explore new topics. His current most prominent field of interest includes the fabrication of biomaterials. 
 
 * Rowland Hall St. Marks High School
   * High School Diploma
