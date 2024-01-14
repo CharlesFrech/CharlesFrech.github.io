@@ -7,7 +7,7 @@
 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -99,7 +99,6 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "assets/img/CharlieHeadShot.JPG"
   bio              : "An undergraduate student at Vanderbilt University majoring in biomedical engineering"
-  location         : "Nashville, TN"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
