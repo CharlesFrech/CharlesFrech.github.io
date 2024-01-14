@@ -24,9 +24,6 @@ that would eliminate any chance of wobbling and rotating in the yaw or pitch dir
 
 <summary>Off the Shelf Parts</summary>
 
-### You can add a header
-
-#Off the Shelf Parts Required
 |      Part                                                            |     Image/Link             |
 | ---------------------------------------------------------------------|:--------------------------:|
 | 250 mm lead screw with 2 mm pitch and 8 mm lead                      | (https://amzn.to/3infwI0)  |
@@ -44,9 +41,6 @@ that would eliminate any chance of wobbling and rotating in the yaw or pitch dir
 | RGB common cathode LED                                               | are neat                   | 
 | Electrical components including wires and resistors                  | are neat                   | 
 
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
 </details>
 
 
