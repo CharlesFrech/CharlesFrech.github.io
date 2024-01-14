@@ -22,6 +22,7 @@ Firstly, three mounts were designed to hold the body, the plunger, and the syrin
 
 <summary>Off the Shelf Parts</summary>
 
+
 |      Part                                                            |     Image/Link             |
 | ---------------------------------------------------------------------|:--------------------------:|
 | 250 mm lead screw with 2 mm pitch and 8 mm lead                      | (https://amzn.to/3infwI0)  |
@@ -38,6 +39,7 @@ Firstly, three mounts were designed to hold the body, the plunger, and the syrin
 | Limit switch                                                         | are neat                   | 
 | RGB common cathode LED                                               | are neat                   | 
 | Electrical components including wires and resistors                  | are neat                   | 
+
 
 </details>
 
