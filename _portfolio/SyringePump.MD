@@ -8,6 +8,7 @@ gallery:
   - image_path: assets/img/FromAfarSP.jpg
   - image_path: assets/img/ElectricalSP.jpg
   - image_path: assets/img/AerialSP.jpg
+  - image_path: assets/img/Screenshot 2024-01-15 173428.png
    
 ---
 
