@@ -19,7 +19,7 @@ Charlie prides himself on his work ethic and eagerness to explore new topics. Hi
 
 * Charlie also worked as an employee at Jersey Mike's Subs during his junior and senior years of high school. Due to his leadership and communication abilities in training and supervising new employees, he was offered managerial duties. 
 
-* Charlie currently works as an undergraduate reseacher in the Bellan Lab for Advanced Materials at Vanderbilt University. His current project is to optimize a Phrozen 8KS Mini resin printer to print photocrosslinkable gelatin methcryloyl. 
+* Charlie currently works as an undergraduate researcher in the Bellan Lab for Advanced Materials at Vanderbilt University. His current project is to optimize a Phrozen 8KS Mini resin printer to print photocrosslinkable gelatin methcryloyl. 
 
 ## Technical Skills
 
