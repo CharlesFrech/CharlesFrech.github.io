@@ -11,7 +11,7 @@ Charlie prides himself on his work ethic and eagerness to explore new topics. Hi
 * Rowland Hall St. Marks High School
   * High School Diploma (2023)
 * Vanderbilt University
-  * BS Biomedical Engineering (2027)
+  * B.E. Biomedical Engineering (2027)
  
 ## Work Experience
 
