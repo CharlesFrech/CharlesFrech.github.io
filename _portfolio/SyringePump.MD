@@ -1,6 +1,6 @@
 ---
 title: "Syringe Pump"
-excerpt: "A stepper motor driven syringe pump primarily made of 3D printed parts with a precise flow rate and compatiblity with syringes of ranging volumes."
+excerpt: "A stepper motor driven syringe pump primarily made of 3D printed parts with a precise flow rate and compatibility with syringes of ranging volumes."
 header:
   image: /assets/img/Screenshot 2024-01-14 124656.png
   teaser: /assets/img/FromAfarSP.jpg
