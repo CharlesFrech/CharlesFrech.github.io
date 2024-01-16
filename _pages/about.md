@@ -23,7 +23,9 @@ Charlie currently works as an undergraduate reseracher in the Bellan Lab for Adv
 
 ## Technical Skills
 
-Charlie is profiecient in CAD modeling softwares like Fushion 360 and AutoCad. He is also able to convert these models into real-life parts using additive manufacturing technologies like fused filament fabrication (FFF) and resin printing.
+Charlie is proficient in CAD modeling softwares like Fushion 360 and AutoCad. He is also able to convert these models into real-life parts using additive manufacturing technologies. Charlie currently has experience with:
+
+* Fused Filament Fabrication (FFF)
 
 ## Major Awards and Accomplishments
 Some of Charlie's major past accomplishments include:
