@@ -17,5 +17,3 @@ feature_row:
   - image_path: assets/img/CharlieHiking.jpg
 ---
 
-{% include feature_row %}
-
