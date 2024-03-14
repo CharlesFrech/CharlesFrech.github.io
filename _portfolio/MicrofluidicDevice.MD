@@ -2,7 +2,7 @@
 title: "Microfluidic Device"
 excerpt: "A plasma bonded microfluidic device made out of PDMS that was casted from a resin printed mold."
 header:
-  image: /assets/img/Screenshot 2024-01-14 124656.png
+  image: /assets/img/20240307_080959.jpg
   teaser: /assets/img/FromAfarSP.jpg
 gallery:
   - image_path: assets/img/FromAfarSP.jpg
@@ -67,5 +67,5 @@ To operate the pump, the user first loaded the syringe. The outward extrusions o
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e10515e96ce3f04fe?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="3D-Printed Syringe Pump" %}
+{% include gallery caption="Microfluidic Device" %}
 
