@@ -5,8 +5,6 @@ header:
   image: /assets/img/20240307_080959.jpg
   teaser: /assets/img/PDMuFluidicDevice.jpg
 gallery:
-  - image_path: assets/img/ResinMoldUFluidic.jpg
-  - image_path: assets/img/PDMuFluidicDevice.jpg
   - image_path: assets/img/SideBySide.jpg
    
 ---
@@ -32,10 +30,16 @@ Moreover, the first geometry the second section of the mixing device contains is
 
 # Making the Device
 
-* **Step 1 - Printing and Curing Resin Mold:** Stereolithography is a simple and rapid way to fabricate molds for microfluidic devices. Therefore, the mold for this microfluidic device was designed in CAD and printed using a Formlabs Fuse 3 SLA printer using high temperature resin. After printing the mold, the part was washed for 10 minutes in varying orientations to remove external clumps of uncured resin. The device was left to dry for 30 minutes, and once the mold had a homogeneous sheen, it was cured for five seconds without heat. This short cure time prevented the part from warping, which would inhibit the high resolution of the device’s design (which is a significant advantage of SLA) and subsequent steps in fabricating the microfluidic device.  
+* **Step 1 - Printing and Curing Resin Mold:** Stereolithography is a simple and rapid way to fabricate molds for microfluidic devices. Therefore, the mold for this microfluidic device was designed in CAD and printed using a Formlabs Fuse 3 SLA printer using high temperature resin (see image below). After printing the mold, the part was washed for 10 minutes in varying orientations to remove external clumps of uncured resin. The device was left to dry for 30 minutes, and once the mold had a homogeneous sheen, it was cured for five seconds without heat. This short cure time prevented the part from warping, which would inhibit the high resolution of the device’s design (which is a significant advantage of SLA) and subsequent steps in fabricating the microfluidic device.  
+
+![alt text](/assets/img/ResinMoldUFluidic.jpg "Resin Mold")
+
 * **Step 2 - Parylene Deposition:** Many resins are not suitable for biomedical applications because uncured resin can leak out of the part and consequently change the composition of solutions and kill cells. Furthermore, resin printed parts are not suitable for elastomer polymerization because it inhibits curing, which impedes using resin in applications where fabricating flexible parts from polymers like PDMS is necessary. The most effective way to prevent these major limitations of resin printed parts is to deposit a thin layer of parylene along the surface of the model. This process enhances the biocompatibility of resin-based prints and allows them to be used as molds for elastomeric devices. 
 * **Step 3 - Casting in PDMS:** Once this mold was casted in parylene to inhibit its cytotoxic qualities, the structures of the device was transferred to PDMS (an elastomeric, nonfragile, and transparent polymer) through casting. Specifically, to create this new PDMS mold, a PDMS-based solution was poured into the parylene coated mold and exposed to UV light to induce curing. The new PDMS mold was then removed from the resin mold. This process PDMS requires special care because, as previously mentioned, resin inhibits proper curing of PDMS. Leaching chemicals in the resin can destroy the catalysts responsible for inducing curing in PDMS.
-* **Step 4 - Plasma Bonding PDMS Molds:** To close the new PDMS mold, the activated PDMS is irreversibly bonded to silicon-based materials like glass or silicon through surface activation by oxygen plasma treatment. The general principal of surface activation requires removing contaminants and generating reactive chemical species to induce covalent bonding. Specifically, plasma exposure causes the terminal methyl groups in PDMS can be replaced by silanol groups to form covalent silane bonds with adjacent molecules. 
+* **Step 4 - Plasma Bonding PDMS Molds:** To close the new PDMS mold, the activated PDMS is irreversibly bonded to silicon-based materials like glass or silicon through surface activation by oxygen plasma treatment. The general principal of surface activation requires removing contaminants and generating reactive chemical species to induce covalent bonding. Specifically, plasma exposure causes the terminal methyl groups in PDMS can be replaced by silanol groups to form covalent silane bonds with adjacent molecules. The final, sealed PDMS device is shown below.
+
+![alt text](/assets/img/PDMuFluidicDevice.jpg "Final PDMS Device")
+
 In short, the process to make the functioning microfluidic device started with designing and manufacturing a mold using stereolithography. This mold was then covered in parylene. The coated mold was then casted in PDMS. Finally, this elastomeric form of the device was filled using oxygen plasma-based surface activation.
 
 # Video
