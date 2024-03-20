@@ -44,7 +44,7 @@ In short, the process to make the functioning microfluidic device started with d
 
 # Video
 
-[Here](https://drive.google.com/file/d/1xsfsMrFDcQYIxCMBCswRsY78jTFp79mc/view?usp=sharing) is a video of the functioning final microfludic device at the volumetric flow rate of approximately 1 mL/min. For the sake of speed and efficiency, at the timestamp 1:45, the volumetric flow rate was increased.
+[Here](https://youtu.be/6WT70_s9AQU) is a video of the functioning final microfludic device at the volumetric flow rate of approximately 1 mL/min. For the sake of speed and efficiency, at the timestamp 1:45, the volumetric flow rate was increased.
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4cdffd816f228146?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
