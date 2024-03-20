@@ -11,7 +11,7 @@ gallery:
 
 ## Introduction to Microfluidic Devices
 
-Microfluidic devices are systems that use small channels, with widths as small as 60 micrometers, to transport and mix various reagents together. Microfluidic devices are particularly relevant in medical diagnostics, DNA sequencing, tissue engineering, and environmental testing in which the microscale homogeneous mixing of reagents and direct manipulation of cellular spatial organization are critical. Furthermore, these devices can also be used to generate droplets (which is relevant in single cell analysis). A major challenge of mixing in microfluidics results from the microscale system of the devices. Specifically, fluids behave very differently in microscale systems than macroscale ones. Therefore, these devices require creative and complex design elements to optimize mixing.  
+Microfluidic devices are systems that use small channels, with widths as small as 60 micrometers, to transport and mix various reagents together. Microfluidic devices are particularly relevant in medical diagnostics, DNA sequencing, tissue engineering, and environmental testing in which the microscale homogeneous mixing of reagents and direct manipulation of cellular spatial organization are critical. Furthermore, these devices can also be used to generate droplets (which is relevant in single cell analysis). A major challenge of mixing in microfluidics results from the microscale nature of the devices. Specifically, fluids behave very differently in microscale systems than macroscale ones. Therefore, these devices require creative and complex design elements to optimize mixing.  
 
 ## Logic of Designing Microfluidic Devices
 
@@ -23,7 +23,7 @@ Moreover, another way to optimize mixing in microfluidic devices, is to increase
 
 ![alt text](/assets/img/Screenshot 2024-03-19 201821.png "Methods to Increase Chaortic Advection")
 
-Some of the decisions regarding the dimensions of the geometries we used in the device to enhance diffusion and chaotic advection relied on the constraints of the manufacturing process. Specifically, the resolution of the printer was limited to 25 micrometers, there had to be two primary mixing sections in the device (one by each team member), the aspect ratio had to be less than 4:1, and all geometries had to be at least 4 mm from the edge of the device. Nevertheless, through creative design techniques, this device also utilizes multiple unique geometries that maximize diffusion and chaotic advection of the fluid.
+Some of the decisions regarding the dimensions of the geometries used in the device relied on the constraints of the manufacturing process. Specifically, the resolution of the printer was limited to 25 micrometers, there had to be two primary mixing sections in the device (one by each team member), the aspect ratio had to be less than 4:1, and all geometries had to be at least 4 mm from the edge of the device. Nevertheless, through creative design techniques, this device also utilizes multiple unique geometries that maximize diffusion and chaotic advection of the fluid.
 
 ## The Device
 
@@ -42,8 +42,8 @@ Moreover, the first geometry the second section of the mixing device contains is
 ![alt text](/assets/img/ResinMoldUFluidic.jpg "Resin Mold")
 
 * **Step 2 - Parylene Deposition:** Many resins are not suitable for biomedical applications because uncured resin can leak out of the part and consequently change the composition of solutions and kill cells. Furthermore, resin printed parts are not suitable for elastomer polymerization because it inhibits curing, which impedes using resin in applications where fabricating flexible parts from polymers like PDMS is necessary. A simple and effective way to prevent these major limitations of resin printed parts is to deposit a thin layer of parylene along the surface of the model. This process enhances the cytocompatibility of resin-based prints and allows them to be used as molds for elastomeric casting. 
-* **Step 3 - Casting in PDMS:** Once this mold was casted in parylene to inhibit its cytotoxic qualities, the device's features were transferred to a PDMS mold (an elastomeric, nonfragile, and transparent polymer) through casting. Specifically, to create this new PDMS mold, a PDMS-based solution was poured onto the parylene coated mold and cured. The new PDMS mold was then removed from the resin mold.
-* **Step 4 - Plasma Bonding PDMS Molds:** To seal the new PDMS mold, the activated PDMS can be irreversibly bonded to silicon-based materials like glass or silicon through surface activation by oxygen plasma treatment. Specifically, surface activation requires removing contaminants and generating reactive chemical species to induce covalent bonding. Specifically, plasma exposure causes the terminal methyl groups in PDMS to be replaced by silanol groups to form covalent silane bonds with adjacent molecules. The final, sealed PDMS device is shown below.
+* **Step 3 - Casting in PDMS:** Once this mold was coated in parylene to inhibit its cytotoxic qualities, the device's features were transferred to a PDMS mold (an elastomeric, nonfragile, and transparent polymer) through casting. Specifically, to create this new PDMS mold, a PDMS-based solution was poured onto the parylene coated mold and cured. The new PDMS mold was then removed from the resin mold.
+* **Step 4 - Plasma Bonding PDMS Molds:** To seal the new PDMS mold, the activated PDMS can be irreversibly bonded to silicon-based materials like glass or silicon through surface activation by oxygen plasma treatment. Surface activation requires removing contaminants and generating reactive chemical species to induce covalent bonding. Specifically, plasma exposure causes the terminal methyl groups in PDMS to be replaced by silanol groups to form covalent silane bonds with adjacent molecules. The final, sealed PDMS device is shown below.
 
 ![alt text](/assets/img/PDMuFluidicDevice.jpg "Final PDMS Device")
 
@@ -56,7 +56,7 @@ Moreover, the first geometry the second section of the mixing device contains is
 
 ## Attributions
 
-All images not of the device are attributed to the lecture material of Dr. David Florian. Information regarding the device fabrication process was primarily drawn from the scientifc paper "Lab on a Chip: Rapid prototyping of cell culture microdevices using parylene-coated 3D prints." This paper can be accessed at this [link](https://doi.org/10.1039/D1LC00744K).
+All images not of the device are attributed to the lecture material of Dr. David Florian. Information regarding the device fabrication process was primarily drawn from the scientific paper "Lab on a Chip: Rapid prototyping of cell culture microdevices using parylene-coated 3D prints." This paper can be accessed at this [link](https://doi.org/10.1039/D1LC00744K).
 
 {% include gallery caption="Side-By-Side Comparison of Resin and PDMS Molds" %}
 
