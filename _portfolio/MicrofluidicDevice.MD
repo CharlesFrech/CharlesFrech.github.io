@@ -30,7 +30,7 @@ Moreover, the first geometry the second section of the mixing device contains is
 
 # Making the Device
 
-* **Step 1 - Printing and Curing Resin Mold:** Stereolithography is a simple and rapid way to fabricate molds for microfluidic devices. Therefore, the mold for this microfluidic device was designed in CAD and printed using a Formlabs Fuse 3 SLA printer using high temperature resin (see image below). After printing the mold, the part was washed for 10 minutes in varying orientations to remove external clumps of uncured resin. The device was left to dry for 30 minutes, and once the mold had a homogeneous sheen, it was cured for five seconds without heat. This short cure time prevented the part from warping, which would inhibit the high resolution of the device’s design (which is a significant advantage of SLA) and hinder subsequent sealing steps during the fabrication process.  
+* **Step 1 - Printing and Curing Resin Mold:** Stereolithography is a simple and rapid way to fabricate molds for microfluidic devices. Therefore, the mold for this microfluidic device was designed in CAD and printed using a Formlabs Form 3 SLA printer using high temperature resin (see image below). After printing the mold, the part was washed for 10 minutes in varying orientations to remove external clumps of uncured resin. The device was left to dry for 30 minutes, and once the mold had a homogeneous sheen, it was cured for five seconds without heat. This short cure time prevented the part from warping, which would inhibit the high resolution of the device’s design (which is a significant advantage of SLA) and hinder subsequent sealing steps during the fabrication process.  
 
 ![alt text](/assets/img/ResinMoldUFluidic.jpg "Resin Mold")
 
