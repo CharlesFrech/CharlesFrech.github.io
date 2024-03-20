@@ -15,7 +15,7 @@ Microfluidic devices are systems that use small channels, with widths as small a
 
 ## Logic of Designing Microfluidic Devices
 
-There are two principal ways to enhance microscale mixing in microfluidic devices. Firstly, it is possible to increase diffusion. The flow of the fluids in microfluidic devices is laminar (smooth). In laminar flow some mixing occurs through molecular diffusion, which is inherently slow because it relies on the random movement of molecules over short distances. Thus, increasing cross-sectional area will increase the rate of diffusion. In these small devices, diffusion (and consequently mixing) can be enhanced by increasing cross-sectional area. This parameter can be directly optimized by increasing path length and splitting the fluidic flow into many subsections. 
+There are two principal ways to enhance microscale mixing in microfluidic devices. Firstly, it is possible to increase diffusion. The flow of the fluids in microfluidic devices is laminar (smooth). In laminar flow some mixing occurs through molecular diffusion, which is inherently slow because it relies on the random movement of molecules over short distances. In these small devices, diffusion (and consequently mixing) can be enhanced by increasing cross-sectional area, which can be directly optimized by increasing path length or splitting the fluidic flow into many subsections (see figure). 
 
 ![alt text](/assets/img/Screenshot 2024-03-19 201747.png "Strategies to Increase Diffusion")
 
