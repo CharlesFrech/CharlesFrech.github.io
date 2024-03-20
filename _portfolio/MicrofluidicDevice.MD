@@ -21,7 +21,7 @@ There are two principal ways to enhance microscale mixing in microfluidic device
 
 Moreover, another way to optimize mixing in microfluidic devices, is to increase chaotic advection. Because the flow of fluids in these devices is laminar, mixing can be enhanced by creating microscale disturbances in the flow. An important distinction to note regarding microscale mixing is that turbulent mixing is a high-energy, large-scale phenomenon that does not occur in microfluidics. Chaotic advection also can induce chaotic flow, but on a smaller scale that is suitable for the small channels in the microfluidic device. 
 
-![alt text](/assets/img/Screenshots\Screenshot 2024-03-19 201821.png "Methods to Increase Chaortic Advection")
+![alt text](/assets/img/Screenshot 2024-03-19 201821.png "Methods to Increase Chaortic Advection")
 
 Some of the decisions regarding the dimensions of the geometries we used in the device to enhance diffusion and chaotic advection relied on the constraints of the manufacturing process. Specifically, the resolution of the printer was limited to 25 micrometers, there had to be two primary mixing sections in the device (one by each team member), the aspect ratio had to be less than 4:1, and all geometries had to be at least 4 mm from the edge of the device. Nevertheless, through creative design techniques, this device also utilizes multiple unique geometries that maximize diffusion and chaotic advection of the fluid.
 
@@ -55,6 +55,7 @@ Moreover, the first geometry the second section of the mixing device contains is
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4cdffd816f228146?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 #Attributions
+
 All images not of the device are attributed to the lecture material of Dr. David Florian. Information regarding the device fabrication process was primarily drawn from the scientifc paper "Lab on a Chip: Rapid prototyping of cell culture microdevices using parylene-coated 3D prints." This paper can be accessed at this [link](https://doi.org/10.1039/D1LC00744K).
 
 {% include gallery caption="Side-By-Side Comparison of Resin and PDMS Molds" %}
