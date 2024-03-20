@@ -23,7 +23,7 @@ Moreover, another way to optimize mixing in microfluidic devices is to increase 
 
 ![alt text](/assets/img/Screenshot 2024-03-19 201821.png "Methods to Increase Chaortic Advection")
 
-Some of the decisions regarding the dimensions of the geometries used in the device relied on the constraints of the manufacturing process. Specifically, the resolution of the printer was limited to 25 micrometers, there had to be two primary mixing sections in the device (one by each team member), the aspect ratio had to be less than 4:1, and all geometries had to be at least 4 mm from the edge of the device. Nevertheless, through creative design techniques, this device also utilizes multiple unique geometries that maximize diffusion and chaotic advection of the fluid.
+Some of the decisions regarding the dimensions of the geometries used in the device relied on the constraints of the manufacturing process. Specifically, the resolution of the printer was limited to 25 micrometers, there had to be two primary mixing sections in the device (one by each team member), the aspect ratio had to be less than 4:1, and all geometries had to be at least 4 mm from the edge of the device. Nevertheless, through creative design techniques, this device utilizes multiple unique geometries that maximize diffusion and chaotic advection of the fluid.
 
 ## The Device
 
