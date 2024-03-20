@@ -54,7 +54,7 @@ Moreover, the first geometry the second section of the mixing device contains is
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4cdffd816f228146?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-#Attributions
+# Attributions
 
 All images not of the device are attributed to the lecture material of Dr. David Florian. Information regarding the device fabrication process was primarily drawn from the scientifc paper "Lab on a Chip: Rapid prototyping of cell culture microdevices using parylene-coated 3D prints." This paper can be accessed at this [link](https://doi.org/10.1039/D1LC00744K).
 
