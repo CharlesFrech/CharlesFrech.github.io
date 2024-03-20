@@ -11,7 +11,7 @@ gallery:
 
 ## Introduction to Microfluidic Devices
 
-Microfluidic devices are systems that use small channels, with widths as small as 60 micrometers, to transport and mix various reagents together. Microfluidic devices are particularly relevant in medical diagnostics, DNA sequencing, tissue engineering, and environmental testing in which the microscale homogeneous mixing of reagents and direct manipulation of cellular spatial organization are critical. Furthermore, these devices can also be used to generate droplets (which is relevant in single cell analysis). A major challenge of mixing in microfluidics results from the microscale mechanisms within the devices. Fluids behave very differently in microscale systems than macroscale ones. Therefore, these devices require creative and complex design elements to optimize mixing.  
+Microfluidic devices are systems that use small channels, with widths as small as 60 micrometers, to transport and mix various reagents together. Microfluidic devices are particularly relevant in medical diagnostics, DNA sequencing, tissue engineering, and environmental testing in which the microscale homogeneous mixing of reagents and direct manipulation of cellular spatial organization are critical. Furthermore, these devices can also be used to generate droplets (which is relevant in single cell analysis). A major challenge of mixing in microfluidics results from the microscale system of the devices. Specifically, fluids behave very differently in microscale systems than macroscale ones. Therefore, these devices require creative and complex design elements to optimize mixing.  
 
 ## Logic of Designing Microfluidic Devices
 
@@ -19,7 +19,7 @@ There are two principal ways to enhance microscale mixing in microfluidic device
 
 ![alt text](/assets/img/Screenshot 2024-03-19 201747.png "Strategies to Increase Diffusion")
 
-Moreover, another way to optimize mixing in microfluidic devices, is to increase chaotic advection. Because the flow of fluids in these devices is laminar, mixing can be enhanced by creating microscale disturbances in the flow. An important distinction to note regarding microscale mixing is that turbulent mixing is a high-energy, large-scale phenomenon that does not occur in microfluidics. Chaotic advection also can induce chaotic flow, but on a smaller scale that is suitable for the small channels in the microfluidic device. 
+Moreover, another way to optimize mixing in microfluidic devices, is to increase chaotic advection. Because the flow of fluids in these devices is laminar, mixing can be enhanced by creating microscale disturbances in the smooth flow. An important distinction to note regarding microscale mixing is that turbulent mixing is a high-energy, large-scale phenomenon that does not occur in microfluidics. Chaotic advection also can induce chaotic flow, but on a smaller scale that is suitable for the small channels in the microfluidic device. 
 
 ![alt text](/assets/img/Screenshot 2024-03-19 201821.png "Methods to Increase Chaortic Advection")
 
