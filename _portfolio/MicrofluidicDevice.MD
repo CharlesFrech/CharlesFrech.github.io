@@ -19,7 +19,7 @@ There are two principal ways to enhance microscale mixing in microfluidic device
 
 ![alt text](/assets/img/Screenshot 2024-03-19 201747.png "Strategies to Increase Diffusion")
 
-Moreover, another way to optimize mixing in microfluidic devices, is to increase chaotic advection. Because the flow of fluids in these devices is laminar, mixing can be enhanced by creating microscale disturbances in the smooth flow. An important distinction to note regarding microscale mixing is that turbulent mixing is a high-energy, large-scale phenomenon that does not occur in microfluidics. Chaotic advection can also induce chaotic flow, but on a smaller scale that is suitable for the small channels in the microfluidic device. 
+Moreover, another way to optimize mixing in microfluidic devices is to increase chaotic advection. Because the flow of fluids in these devices is laminar, mixing can be enhanced by creating microscale disturbances in the smooth flow. An important distinction to note regarding microscale mixing is that turbulent mixing is a high-energy, large-scale phenomenon that does not occur in microfluidics. Chaotic advection can also induce chaotic flow, but on a smaller scale that is suitable for the small channels in the microfluidic device. 
 
 ![alt text](/assets/img/Screenshot 2024-03-19 201821.png "Methods to Increase Chaortic Advection")
 
