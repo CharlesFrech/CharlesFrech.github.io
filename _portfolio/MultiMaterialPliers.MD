@@ -13,11 +13,9 @@ gallery:
 
 Print-in-place 3D printing refers to the process of creating objects with multiple components or movable parts as a single piece. This methodology effectively eliminates the process of assembling multiple prints to create one final part. An example of a single material print in place part is a bolt lock, which requires an internal feature that can slide and subsequently extend outwards to create a barrier. Furthermore, print-in-place parts can also be multi-material. An example of a multi-material print-in-place part is a lead screw bearing block, which couples high strength and rigid material with a flexible, low wear filament into a single part. 
 
-<center>
 Print-in-Place Bolt Lock|Print-in-Place Multi-Material Bearing Block
 --|--
 ![](/assets/img/Screenshot 2024-03-31 211111.png)|![](/assets/img/Screenshot 2024-03-31 213312.png)
-</center>
 
 ## Printing Multi-Material Parts
 
