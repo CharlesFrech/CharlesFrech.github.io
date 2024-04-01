@@ -5,7 +5,12 @@ header:
   image: /assets/img/PliersTopImage.png
   teaser: /assets/img/PliersHeaderImage.png
 gallery:
-  - image_path: assets/img/SideBySide.jpg
+  - image_path: assets/img/PliersJawsGallery.png
+  - image_path: assets/img/PliersLegsGallery.png
+  - image_path: assets/img/ElasticsGallery.png
+  - image_path: assets/img/Plier1Gallery.png
+  - image_path: assets/img/Plier2Gallery.png
+
    
 ---
 
@@ -63,6 +68,6 @@ All images not of the device and information about multi-material printing is at
 
 ## Gallery
 
-{% include gallery caption="Iterations of Pliers" %}
+{% include gallery caption="Images of Pliers" %}
 
 
