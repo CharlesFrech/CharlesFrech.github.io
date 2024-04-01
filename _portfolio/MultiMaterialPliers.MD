@@ -43,7 +43,9 @@ Two models of pliers were built. In both iterations, the design of the jaws and 
 
 Nevertheless, the pliers worked very well when used with two hands because the forces on each leg were approximately equivalent. To address this challenge, the next iteration only offset the flexible grid, not its border (see above image of grids). This design also decreased the thickness of the matrix, thereby making the component more flexible. This design worked much better and addressed the imbalance issue. However, this model also had a flaw. Specifically, a different filament was used for this second flexible component. The filament of the first iteration had a much higher Young’s Modulus compared to the filament used for the second model, which also explains why  the second design was much more flexible. However, this added flexibility affected the connection between the flexible piece and the legs and pliers. The approximate 0.1 to 0.2 mm clearance between these pieces, which worked very well for this first iteration, was less effective with the more elastic filament (see below gif). Nevertheless, this added flexibility unlocked a new feature for the pliers. Specifically, this second model of the pliers had the capability to readily open and close, thereby increasing the plier’s jaw capacity (see above motion gif). 
 
-![](/assets/img/Plier2Failure.jpg)
+<p align="center">
+  <img src=/assets/img/Plier2Failure.jpg />
+</p>
 
 To test the quality of the designs, each plier needed to be able to pick up a through-hole resistor. As the gifs below demonstrate, both models of these pliers passed this test.
 
@@ -59,8 +61,8 @@ The legs, pliers, and body were designed as separate bodies in CAD and printed s
 
 ## Attributions
 
-All images not of the device are attributed to the lecture material of Dr. David Florian.
+All images not of the device and information about multi-material printing is attributed to the lecture material of Dr. David Florian.
 
-{% include gallery caption="Side-By-Side Comparison of Resin and PDMS Molds" %}
+{% include gallery caption="Iterations of Pliers" %}
 
 
