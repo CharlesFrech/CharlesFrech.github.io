@@ -50,7 +50,7 @@ To test the quality of the designs, each plier needed to be able to pick up a th
 
 Model 1 Resistor Test|Model 2 Resistor Test
 --|--
-![](/assets/img/Multimaterial Pliers Version 1 (w_Resistor) - Made with Clipchamp(1).gif)|![](/assets/img/Multimaterial Pliers Version 2 (w_resistor) - Made with Clipchamp (1).gif)
+![](/assets/img/Multimaterial Pliers Version 1 (w_Resistor) - Made with Clipchamp (1).gif)|![](/assets/img/Multimaterial Pliers Version 2 (w_resistor) - Made with Clipchamp (1).gif)
 
 The legs, pliers, and body were designed as separate bodies in CAD and printed separately using a Voron single extrusion printer. Nevertheless, an assembly file was created that coupled all these bodies together that would allow someone to print these pliers using a dual-extrusion printer. Some notable print settings to control if using a dual-extrusion printer are temperature, speed, and layer height. These parameters ensure that the differences in surface energy, mechanical properties, chemical attributes, and cooling rates are minimized so that proper adhesion between different components can be ensured.
 
