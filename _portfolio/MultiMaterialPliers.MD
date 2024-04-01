@@ -40,13 +40,11 @@ The central flexible component is a square with three t-shaped extrusions on eac
 
 Model 1 Motion|Model 2 Motion
 --|--
-![](/assets/img/Multimaterial Pliers Version 1 - Made with Clipchamp.gif)|![](/assets/img/UpdatedPliers2Motion.gif)
+<img src="/assets/img/Multimaterial Pliers Version 1 - Made with Clipchamp.gif" style="display:flex; margin:auto;">|<img src="UpdatedPliers2Motion.gif" style="display:flex; margin:auto;">
 
 Two models of pliers were built. In both iterations, the design of the jaws and the leg components stayed the same, while the flexible piece changed. In the first model, the depth of the flexible matrix and its border was offset from this piece’s outward extrusions that connected to the jaws and legs. This decision stemmed from the fact that thinner geometries are more flexible and have higher capacity to translate the clamping motion on the legs to the jaws. However, this model was flawed because the depth between the flexible grid and the attachment extrusions was too great. Therefore, when the legs were squeezed with different amounts of force, which occurred when the pliers were operated with one hand, the legs were prone to bending inwards. 
 
-<img src="/assets/img/Multimaterial Pliers Version 1 (failure)- Made with Clipchamp.gif" style="border-radius: 20px; display:flex; margin:auto;">
-
-![](/assets/img/Multimaterial Pliers Version 1 (failure)- Made with Clipchamp.gif)
+<img src="/assets/img/Multimaterial Pliers Version 1 (failure)- Made with Clipchamp.gif" style="display:flex; margin:auto;">
 
 Nevertheless, the pliers worked very well when used with two hands because the forces on each leg were approximately equivalent. To address this challenge, the next iteration only offset the flexible grid, not its border (see above image of grids). This design also decreased the thickness of the matrix, thereby making the component more flexible. This design worked much better and addressed the imbalance issue. However, this model also had a flaw. Specifically, a different filament was used for this second flexible component. The filament of the first iteration had a much higher Young’s Modulus compared to the filament used for the second model, which also explains why the second design was much more flexible. However, this added flexibility affected the connection between the flexible piece and the legs and pliers. The approximate 0.1 to 0.2 mm clearance between these pieces, which worked very well for this first iteration, was less effective with the more elastic filament. Nevertheless, this added flexibility unlocked a new feature for the pliers. Specifically, this second model of the pliers had the capability to readily open and close, thereby increasing the plier’s jaw capacity (see above motion .GIF). 
 
