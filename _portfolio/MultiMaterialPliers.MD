@@ -42,8 +42,8 @@ Two models of pliers were built. In both iterations, the design of the jaws and 
 ![](/assets/img/Multimaterial Pliers Version 1 (failure)- Made with Clipchamp.gif)
 
 Nevertheless, the pliers worked very well when used with two hands because the forces on each leg were approximately equivalent. To address this challenge, the next iteration only offset the flexible grid, not its border (see above image of grids). This design also decreased the thickness of the matrix, thereby making the component more flexible. This design worked much better and addressed the imbalance issue. However, this model also had a flaw. Specifically, a different filament was used for this second flexible component. The filament of the first iteration had a much higher Young’s Modulus compared to the filament used for the second model, which also explains why  the second design was much more flexible. However, this added flexibility affected the connection between the flexible piece and the legs and pliers. The approximate 0.1 to 0.2 mm clearance between these pieces, which worked very well for this first iteration, was less effective with the more elastic filament (see below gif). Nevertheless, this added flexibility unlocked a new feature for the pliers. Specifically, this second model of the pliers had the capability to readily open and close, thereby increasing the plier’s jaw capacity (see above motion gif). 
-<p align="center">
-  <img src="https://github.com/CharlesFrech/CharlesFrech.github.io/blob/599e57abf0dbb7f39f20aa1f7ae1bc5b00c64790/assets/img/Plier2Failure.jpg"/>
+<p align="center" width="100%">
+  <img width="33%" src="https://github.com/CharlesFrech/CharlesFrech.github.io/blob/599e57abf0dbb7f39f20aa1f7ae1bc5b00c64790/assets/img/Plier2Failure.jpg">
 </p>
 
 To test the quality of the designs, each plier needed to be able to pick up a through-hole resistor. As the gifs below demonstrate, both models of these pliers passed this test.
