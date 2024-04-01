@@ -35,7 +35,7 @@ The central flexible component is a square with three t-shaped extrusions on eac
 
 Model 1 Motion|Model 2 Motion
 --|--
-![](/assets/img/Multimaterial Pliers Version 1 - Made with Clipchamp.gif)|![](/assets/img/Multimaterial Pliers Version 2.gif)
+![](/assets/img/Multimaterial Pliers Version 1 - Made with Clipchamp.gif)|![](/assets/img/UpdatedPliers2Motion.gif)
 
 Two models of pliers were built. In both iterations, the design of the jaws and the leg components stayed the same, while the flexible piece changed. In the first model, the depth of the matrix and its border was offset from this piece’s outward extrusions that connected to the jaws and legs. This decision stemmed from the fact that thinner geometries are more flexible and have higher capacity to translate the clamping motion on the legs to the jaws. However, this model was flawed because the depth between the flexible grid and the attachment extrusions was too great. Therefore, when the legs were squeezed with different amounts of force, which occurred when the pliers were operated with one hand, the legs were prone to bending inwards. 
 
@@ -51,7 +51,7 @@ To test the quality of the designs, each plier needed to be able to pick up a th
 
 Model 1 Resistor Test|Model 2 Resistor Test
 --|--
-![](/assets/img/Multimaterial Pliers Version 1 (w_ Resistor) - Made with Clipchamp (1).gif)|![](/assets/img/Multimaterial Pliers Version 2 (w_resistor) - Made with Clipchamp (1).gif)
+![](/assets/img/UpdatedPliers1Resistor.gif)|![](/assets/img/UpdatedPliers2Resistor.gif)
 
 The legs, pliers, and body were designed as separate bodies in CAD and printed separately using a Voron single extrusion printer. Nevertheless, an assembly file was created that coupled all these bodies together that would allow someone to print these pliers using a dual-extrusion printer. Some notable print settings to control if using a dual-extrusion printer are temperature, speed, and layer height. These parameters ensure that the differences in surface energy, mechanical properties, chemical attributes, and cooling rates are minimized so that proper adhesion between different components can be ensured.
 
