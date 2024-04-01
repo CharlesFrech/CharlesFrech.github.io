@@ -33,7 +33,7 @@ The legs, pliers, and body were designed as separate bodies in CAD and printed s
 
 A|B
 --|--
-![](https://example.com/a.gif)|![](https://drive.google.com/file/d/1TpdGiiPK79XrBRBbDj69ZrrQKzG9DP1v/view?usp=drive_link)
+![](/assets/img/Multimaterial Pliers Version 2.gif)|![](/assets/img/Multimaterial Pliers Version 2.gif)
 
 ## Video
 
