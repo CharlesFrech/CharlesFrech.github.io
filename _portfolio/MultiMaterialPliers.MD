@@ -27,11 +27,11 @@ For two separate plastics to effectively bond together, they must have similar q
 
 The final model of the multi-material pliers had five pieces: two legs, two jaws, and a flexible body. The legs and jaws were 3D-printed with rigid PLA and the body was printed with flexible TPU. The legs were designed to mimic commercial pliers. They had circular bases and interior extrusions to allow for a better grip on the pliers. The jaws were angled so that they would get closer to each other with increasing length. The final length of the pliers that was chosen ensured the distance between their tips was approximately 3 mm when the pliers were in the un-clamped position.  
 
-![alt text](/assets/img/Screenshot ElasticPieces.png)
+![alt text](/assets/img/ElasticPieces.png)
 
 The central flexible component is a square with three t-shaped extrusions on each side (see image). These “teeth” slot into similar cutouts on the pliers and legs. This mechanism restrained the spring in the model. The clearance between the teeth and the cutouts ranged from 0.1 to 0.2 mm. To maximize the flexibility of this piece, a grid design was used with thin walls. The thin walls of the grid design were susceptible to significant bending  after force was applied to the legs.
 
-![alt text](/assets/img/Screenshot ElasticPieces.png)
+![alt text](/assets/img/ElasticPieces.png)
 
 ## Design Process
 
