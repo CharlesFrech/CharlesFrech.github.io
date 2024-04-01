@@ -1,5 +1,5 @@
 ---
-title: "Multimaterial Pliers"
+title: "Multi-Material Pliers"
 excerpt: "A print-in-place pair of pliers 3-D printed with elastic TPU and rigid PLA."
 header:
   image: /assets/img/PliersTopImage.png
@@ -18,7 +18,7 @@ gallery:
 
 Print-in-place 3D printing refers to the process of creating objects with multiple components or movable parts as a single piece. This methodology effectively eliminates the neeed to assemble multiple seprate prints to create one final part. It also allows for more sophisticated parts to be manufactured with internal complex geometries. An example of a single material print-in-place part is a bolt lock, which requires an internal feature that can slide and subsequently extend outwards to create a barrier. Furthermore, print-in-place parts can also be multi-material. An example of a multi-material print-in-place part is a lead screw bearing block, which couples high strength and rigid material with a flexible, low wear filament into a single part. 
 
-Print-in-Place Bolt Lock|Print-in-Place Multi-Material Bearing Block
+[Print-in-Place Bolt Lock](https://www.pinterest.com/pin/359936195224395037/)|[Print-in-Place Multi-Material Bearings](https://www.igus.com/info/bolt-flange-bearings)
 --|--
 ![](/assets/img/Screenshot 2024-03-31 211111.png)|![](/assets/img/Screenshot 2024-03-31 213312.png)
 
@@ -50,7 +50,8 @@ Nevertheless, the pliers worked very well when used with two hands because the f
 
 ![](/assets/img/Plier2Failure.jpg)
 
-## Testing the Pliers
+## Testing the Plierslink in github
+
 
 To test the quality of the designs, each plier needed to be able to pick up a through-hole resistor. As the .GIFS below demonstrate, both models of these pliers passed this test.
 
@@ -68,7 +69,7 @@ The legs, pliers, and body were designed as separate bodies in CAD and printed s
 
 ## Attributions
 
-All images not of the device and information about multi-material printing is attributed to the lecture material of Dr. David Florian.
+All information about multi-material printing is attributed to the lecture material of Dr. David Florian. 
 
 ## Gallery
 
