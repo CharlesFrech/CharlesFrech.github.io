@@ -2,8 +2,8 @@
 title: "Multimaterial Pliers"
 excerpt: "A print-in-place pair of pliers 3-D printed with elastic TPU and rigid PLA."
 header:
-  image: /assets/img/20240307_080959.jpg
-  teaser: /assets/img/PDMuFluidicDevice.jpg
+  image: /assets/img/PliersHeaderImage.heic
+  teaser: /assets/img/PliersHeaderImage.heic
 gallery:
   - image_path: assets/img/SideBySide.jpg
    
