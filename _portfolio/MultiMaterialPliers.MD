@@ -2,7 +2,7 @@
 title: "Multimaterial Pliers"
 excerpt: "A print-in-place pair of pliers 3-D printed with elastic TPU and rigid PLA."
 header:
-  image: /assets/img/PliersHeaderImage.heic
+  image: /assets/img/PliersTopImage.heic
   teaser: /assets/img/PliersHeaderImage.heic
 gallery:
   - image_path: assets/img/SideBySide.jpg
@@ -12,6 +12,10 @@ gallery:
 ## Introduction to Print-in-Place Parts
 
 Print-in-place 3D printing refers to the process of creating objects with multiple components or movable parts as a single piece. This methodology effectively eliminates the process of assembling multiple prints to create one final part. An example of a single material print in place part is a bolt lock, which requires an internal feature that can slide and subsequently extend outwards to create a barrier. Furthermore, print-in-place parts can also be multi-material. An example of a multi-material print-in-place part is a lead screw bearing block, which couples high strength and rigid material with a flexible, low wear filament into a single part. 
+
+Bolt Lock|Multi-Material Bearing Block
+--|--
+![](/assets/img/Multimaterial Pliers Version 1 - Made with Clipchamp.gif)|![](/assets/img/Multimaterial Pliers Version 2.gif)
 
 ## Printing Multi-Material Parts
 
