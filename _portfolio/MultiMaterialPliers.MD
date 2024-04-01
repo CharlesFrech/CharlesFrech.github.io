@@ -35,12 +35,9 @@ Iteration 1|Iteration 2
 --|--
 ![](/assets/img/Multimaterial Pliers Version 1 - Made with Clipchamp.gif)|![](/assets/img/Multimaterial Pliers Version 2.gif)
 
-## Video
-
-[Here](https://youtu.be/6WT70_s9AQU) is a video of the functioning final microfluidic device at a volumetric flow rate of approximately 1 mL/min. For the sake of speed and efficiency, at the timestamp 1:45, the volumetric flow rate was increased to 10 mL/min.
-
 ## CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4cdffd816f228146?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e76906e8ae02228d5?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Attributions
 
