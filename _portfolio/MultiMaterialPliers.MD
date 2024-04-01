@@ -31,9 +31,9 @@ I designed two models of pliers. In both iterations, the design of the jaws and 
 
 The legs, pliers, and body were designed as separate bodies in CAD and printed separately using a Voron single extrusion printer. Nevertheless, an assembly file was created that coupled all these bodies together that would allow someone to print these pliers using a dual-extrusion printer. Some notable print settings to control if using a dual-extrusion printer are temperature, speed, and layer height. These parameters ensure that the differences in surface energy, mechanical properties, chemical attributes, and cooling rates are minimized so that proper adhesion between different components can be ensured.
 
-A|B
+Iteration 1|Iteration 2
 --|--
-![](/assets/img/Multimaterial Pliers Version 2.gif)|![](/assets/img/Multimaterial Pliers Version 2.gif)
+![](/assets/img/Multimaterial Pliers Version 1 - Made with Clipchamp.gif)|![](/assets/img/Multimaterial Pliers Version 2.gif)
 
 ## Video
 
