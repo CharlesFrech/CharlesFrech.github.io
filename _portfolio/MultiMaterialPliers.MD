@@ -26,7 +26,7 @@ Print-in-Place Bolt Lock|Print-in-Place Multi-Material Bearing Block
 
 For two separate plastics to effectively bond together, they must have similar qualities. Firstly, they must have similar surface energies, which determines how much they flow upon extrusion. Next, they must have similar chemical properties. Highly polar polymers with a net dipole moment are unlikely to bond well with a long, non-polar polymer chain. Thirdly, the polymers should have similar shrinkage and cooling rates. A discrepancy in this property will cause separation between layers if the printed parts warp. Finally, the materials should have relatively similar mechanical properties. However, this quality is less important than the other aforementioned characteristics. Therefore, it is possible to print a multi-material part with a flexible filament and a rigid polymer. Some combinations of polymers that work well together include PLA and TPU, PLA and PVA, and ABS and HIPS. 
 
-## The Model
+## The Final Model
 
 The final model of the multi-material pliers had five pieces: two legs, two jaws, and a flexible body. The legs and jaws were 3D-printed with rigid PLA and the body was printed with flexible TPU. The geometry of legs was designed to mimic commercial pliers. They had circular bases and interior extrusions to allow for a better grip on the pliers. The jaws were angled so that they would get closer to each other with increasing length. The final length of the pliers that was chosen ensured the distance between their tips was approximately 3 mm when the pliers were in the un-clamped position.  
 
@@ -50,11 +50,15 @@ Nevertheless, the pliers worked very well when used with two hands because the f
 
 ![](/assets/img/Plier2Failure.jpg)
 
+## Testing the Pliers
+
 To test the quality of the designs, each plier needed to be able to pick up a through-hole resistor. As the .GIFS below demonstrate, both models of these pliers passed this test.
 
 Model 1 Resistor Test|Model 2 Resistor Test
 --|--
 ![](/assets/img/UpdatedPliers1Resistor.gif)|![](/assets/img/UpdatedPliers2Resistor.gif)
+
+## Final Considerations
 
 The legs, pliers, and body were designed as separate bodies in CAD and printed separately using a Voron single extrusion printer. Nevertheless, an assembly file was created that coupled all these bodies together that would allow someone to print these pliers using a dual-extrusion printer. Some notable print settings to control if using a dual-extrusion printer are temperature, speed, and layer height. These parameters ensure that the differences in surface energy, mechanical properties, chemical attributes, and cooling rates are minimized so that proper adhesion between different materials can be ensured.
 
