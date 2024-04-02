@@ -86,7 +86,7 @@ To test the quality of the designs, each plier needed to be able to pick up a th
 
 <div class="container">
   <img src="/assets/img/UpdatedPliers1Resistor.gif" alt="GIF 1">
-  <img src="UpdatedPliers2Resistor.gif" alt="GIF 2">
+  <img src="/assets/img/UpdatedPliers2Resistor.gif" alt="GIF 2">
 </div>
 
 </body>
