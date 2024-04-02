@@ -9,7 +9,6 @@ gallery:
   - image_path: assets/img/PlierLegsGallery.png
   - image_path: assets/img/Plier1Gallery.png
   - image_path: assets/img/Plier2Gallery.png
-  - image_path: assets/img/ElsaticsGallery.png
 
    
 ---
