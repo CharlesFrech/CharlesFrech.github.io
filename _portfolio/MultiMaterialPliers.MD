@@ -5,9 +5,10 @@ header:
   image: /assets/img/PliersTopImage.png
   teaser: /assets/img/PliersHeaderImage.png
 gallery:
-  - image_path: assets/img/Plier1Gallery.png
   - image_path: assets/img/PliersJawsGallery.png
+  - image_path: assets/img/ElsaticsGallery.png
   - image_path: assets/img/PlierLegsGallery.png
+  - image_path: assets/img/Plier1Gallery.png
   - image_path: assets/img/Plier2Gallery.png
 
    
