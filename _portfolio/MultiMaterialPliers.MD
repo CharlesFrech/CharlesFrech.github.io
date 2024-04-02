@@ -38,11 +38,6 @@ The central flexible component is a square with three t-shaped extrusions on eac
 
 ## Design Process
 
-Model 1 Motion|Model 2 Motion
---|--
-<img src="/assets/img/Multimaterial Pliers Version 1 - Made with Clipchamp.gif" style="display:flex; margin:auto;">|<img src="/assets/img/UpdatedPliers2Motion.gif" style="display:flex; margin:auto;">
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -64,8 +59,6 @@ Model 1 Motion|Model 2 Motion
 </body>
 </html>
 
-Replace `"gif1.gif"` and `"gif2.gif"` with the actual file paths or URLs of your GIF images. This code will horizontally center both GIFs within the `.container` div.
-
 Two models of pliers were built. In both iterations, the design of the jaws and the leg components stayed the same, while the flexible piece changed. In the first model, the depth of the flexible matrix and its border was offset from this piece’s outward extrusions that connected to the jaws and legs. This decision stemmed from the fact that thinner geometries are more flexible and have higher capacity to translate the clamping motion on the legs to the jaws. However, this model was flawed because the depth between the flexible grid and the attachment extrusions was too great. Therefore, when the legs were squeezed with different amounts of force, which occurred when the pliers were operated with one hand, the legs were prone to bending inwards. 
 
 <img src="/assets/img/Multimaterial Pliers Version 1 (failure)- Made with Clipchamp.gif" style="display:flex; margin:auto;">
@@ -78,9 +71,26 @@ Nevertheless, the pliers worked very well when used with two hands because the f
 
 To test the quality of the designs, each plier needed to be able to pick up a through-hole resistor. As the .GIFS below demonstrate, both models of these pliers passed this test.
 
-Model 1 Resistor Test|Model 2 Resistor Test
---|--
-![](/assets/img/UpdatedPliers1Resistor.gif)|![](/assets/img/UpdatedPliers2Resistor.gif)
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Centered GIFs</title>
+<style>
+  .container {
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <img src="/assets/img/UpdatedPliers1Resistor.gif" alt="GIF 1">
+  <img src="UpdatedPliers2Resistor.gif" alt="GIF 2">
+</div>
+
+</body>
+</html>
 
 ## Final Considerations
 
