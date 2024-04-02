@@ -50,8 +50,7 @@ Nevertheless, the pliers worked very well when used with two hands because the f
 
 <img src="/assets/img/Plier2Failure (1).jpg" style="display:flex; margin:auto;">
 
-## Testing the Plierslink in github
-
+## Testing the Pliers
 
 To test the quality of the designs, each plier needed to be able to pick up a through-hole resistor. As the .GIFS below demonstrate, both models of these pliers passed this test.
 
