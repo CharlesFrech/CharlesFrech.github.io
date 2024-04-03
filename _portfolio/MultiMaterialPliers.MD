@@ -7,7 +7,6 @@ header:
 gallery:
   - image_path: assets/img/PliersJawsGallery.png
   - image_path: assets/img/PlierLegsGallery.png
-
   - image_path: assets/img/Plier1Gallery.png
   - image_path: assets/img/Plier2Gallery.png
 
@@ -106,6 +105,21 @@ All information about multi-material printing is attributed to the lecture mater
 
 ## Gallery
 
-{% include gallery caption="Images of Pliers" %}
-
-
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Four Images</title>
+</head>
+<style>
+  .container {
+    text-align: center;
+  }
+</style>
+<body>
+    <img src="/assets/img/PliersJawsGallery.png" alt="Image 1">
+    <img src="/assets/img/PlierLegsGallery.png" alt="Image 2">
+    <img src="/assets/img/Plier1Gallery.png" alt="Image 3">
+    <img src="/assets/img/Plier2Gallery.png" alt="Image 4">
+</body>
+</html>
