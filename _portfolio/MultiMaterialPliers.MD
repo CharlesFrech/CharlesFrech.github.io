@@ -4,11 +4,7 @@ excerpt: "A print-in-place pair of pliers 3-D printed with elastic TPU and rigid
 header:
   image: /assets/img/PliersTopImage.png
   teaser: /assets/img/PliersHeaderImage.png
-gallery:
-  - image_path: assets/img/PliersJawsGallery.png
-  - image_path: assets/img/PlierLegsGallery.png
-  - image_path: assets/img/Plier1Gallery.png
-  - image_path: assets/img/Plier2Gallery.png
+
 
    
 ---
@@ -115,11 +111,14 @@ All information about multi-material printing is attributed to the lecture mater
   .container {
     text-align: center;
   }
+  img {
+      margin-bottom: 20px;
+  }
 </style>
 <body>
-    <img src="/assets/img/PliersJawsGallery.png" alt="Image 1">
-    <img src="/assets/img/PlierLegsGallery.png" alt="Image 2">
-    <img src="/assets/img/Plier1Gallery.png" alt="Image 3">
-    <img src="/assets/img/Plier2Gallery.png" alt="Image 4">
+    <img src="/assets/img/PliersJawsGallery.png" alt="Gallery Image 1">
+    <img src="/assets/img/PlierLegsGallery.png" alt="Gallery Image 2">
+    <img src="/assets/img/Plier1Gallery.png" alt="Gallery Image 3">
+    <img src="/assets/img/Plier2Gallery.png" alt="Gallery Image 4">
 </body>
 </html>
