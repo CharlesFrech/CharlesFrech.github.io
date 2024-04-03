@@ -11,7 +11,7 @@ header:
 
 ## Introduction to Print-in-Place Parts
 
-Print-in-place 3D printing refers to the process of creating objects with multiple components or movable parts as a single piece. This methodology effectively eliminates the need to assemble multiple separate prints to create one final part. It also allows for more sophisticated parts to be manufactured with internal complex geometries. An example of a single material print-in-place part is a bolt lock, which requires an internal feature that can slide and subsequently extend outwards to create a barrier. Furthermore, print-in-place parts can also be multi-material. An example of a multi-material print-in-place part is a flange bearing. The pictured bearing couples a high strength and rigid material with a flexible, low wear filament into a single part. The manufacturer consequently claims that this part is suitable for use in a variety of machines including those in agricultural, robotic, and food-machinery applications. 
+Print-in-place 3D printing refers to the process of creating objects with multiple components or movable parts as a single piece. This methodology effectively eliminates the need to assemble multiple separate prints to create one final part. It also allows for parts with complex internal geometries to be manufactured. An example of a single material print-in-place part is a bolt lock, which requires an internal feature that can slide and subsequently extend outwards to create a barrier. Furthermore, print-in-place parts can also be multi-material. An example of a multi-material print-in-place part is a flange bearing. The pictured bearing couples a high-strength and rigid material with a flexible, low wear filament into a single part. The manufacturer consequently claims that this part is suitable for use in a variety of machines, including those in agricultural, robotic, and food-machinery applications. 
 
 [Print-in-Place Bolt Lock](https://www.pinterest.com/pin/359936195224395037/)|[Print-in-Place Multi-Material Bearings](https://www.igus.com/info/bolt-flange-bearings)
 --|--
@@ -23,11 +23,11 @@ For two separate plastics to effectively bond together, they must have similar q
 
 ## The Final Model
 
-The final model of the multi-material pliers had five pieces: two legs, two jaws, and a flexible body. The legs and jaws were 3D-printed with rigid PLA and the body was printed with flexible TPU. The geometry of legs was designed to mimic commercial pliers. They had circular bases and interior extrusions to allow for a better grip on the pliers. The jaws were angled so that they would get closer to each other with increasing length. The final chosen length of the pliers ensured that the distance between their tips was approximately 3 mm when in the un-clamped position.  
+The final model of the multi-material pliers had five pieces: two legs, two jaws, and a flexible body. The legs and jaws were 3D-printed with rigid PLA, and the body was printed with flexible TPU. The geometry of the legs was designed to mimic commercial pliers. They had circular bases and interior extrusions to allow for a better grip on the pliers. The jaws were angled so that they would get closer to each other with increasing length. The final chosen length of the pliers ensured that the distance between their tips was approximately 3 mm when in the unclamped position.  
 
 ![alt text](/assets/img/PliersImage.png)
 
-The central flexible component is a square with three t-shaped extrusions on each side (see image). These “teeth” slot into similar cutouts on the pliers and legs. This mechanism restrained the spring in the model. The clearance between the teeth and the cutouts ranged from 0.1 to 0.2 mm. To maximize the flexibility of this piece, a grid design was used with thin walls. The thin walls of the grid design were susceptible to significant bending after force was applied to the legs.
+The central flexible component was a square with three t-shaped extrusions on each side (see image). These “teeth” slotted into similar cutouts on the pliers and legs. This mechanism restrained the spring in the model. The clearance between the teeth and the cutouts ranged from 0.1 to 0.2 mm. To maximize the flexibility of this piece, a grid design was used with thin walls. The thin walls of the grid design were susceptible to significant bending after force was applied to the legs.
 
 ![alt text](/assets/img/ElasticPieces.png)
 
@@ -54,17 +54,17 @@ The central flexible component is a square with three t-shaped extrusions on eac
 </body>
 </html>
 
-Two models of pliers were built. In both iterations, the design of the jaws and the leg components stayed the same, while the flexible piece changed. In the first model, the depth of the flexible matrix and its border was offset from this piece’s outward extrusions that connected to the jaws and legs. This decision stemmed from the fact that thinner geometries are more flexible and have higher capacity to translate the clamping motion on the legs to the jaws. However, this model was flawed because the depth between the flexible grid and the attachment extrusions was too great. Therefore, when the legs were squeezed with different amounts of force, which occurred when the pliers were operated with one hand, the legs were prone to bending inwards. 
+Two models of pliers were built. In both iterations, the design of the jaws and the leg components stayed the same, while the flexible piece changed. In the first model, the depth of the flexible matrix and its border were offset from this piece’s outward "teeth" extrusions that connected to the jaws and legs. This decision stemmed from the fact that thinner geometries are more flexible and have a higher capacity to translate the clamping motion on the legs to the jaws. However, this model was flawed because the depth between the flexible grid and the attachment extrusions was too great. Therefore, when the legs were squeezed with different amounts of force, which occurred when the pliers were operated with one hand, the legs were prone to bending inwards. 
 
 <img src="/assets/img/Multimaterial Pliers Version 1 (failure)- Made with Clipchamp.gif" style="display:flex; margin:auto;">
 
-Nevertheless, the pliers worked very well when used with two hands because the forces on each leg were approximately equivalent. To address this imbalance issue, the next iteration only offset the flexible grid, not its border (see above image of grids). This design also decreased the thickness of the matrix, thereby making the component more flexible. This design worked much better and addressed the challenge. However, this model also had a flaw. Specifically, a different filament was used for this second flexible component. The filament of the first iteration had a much higher Young’s Modulus compared to the filament used for the second model, which also explains why the second design was much more flexible. However, this added flexibility affected the connection between the flexible piece and the legs and pliers. The approximate 0.1 to 0.2 mm clearance between these pieces, which worked very well for this first iteration, was less effective with the more elastic filament. Nevertheless, this added flexibility unlocked a new feature for the pliers. Specifically, this second model of the pliers had the capability to readily open and close, thereby increasing the plier’s jaw capacity (see above motion .GIF). 
+Nevertheless, the pliers worked very well when used with two hands because the forces on each leg were approximately equivalent. To address this imbalance issue, the next iteration only offset the flexible grid, not its border (see above image of grids). This design also decreased the thickness of the matrix, thereby making the component more flexible. This design worked much better and addressed the challenge. However, this model also had a flaw. Specifically, a different filament was used for this second flexible component. The filament of the first iteration had a much higher Young’s modulus compared to the filament used for the second model, which also explains why the second design was much more flexible. However, this added flexibility affected the connection between the flexible piece and the legs and pliers. The approximate 0.1 to 0.2 mm clearance between these pieces, which worked very well for this first iteration, was less effective with the more elastic filament. Nevertheless, this added flexibility unlocked a new feature for the pliers. Specifically, this second model of the pliers had the capability to readily open and close, thereby increasing the plier’s jaw capacity (see above motion .GIF). 
 
 <img src="/assets/img/Plier2Failure (1).jpg" style="display:flex; margin:auto;">
 
 ## Testing the Pliers
 
-To test the quality of the designs, each plier needed to be able to pick up a through-hole resistor. As the .GIFS below demonstrate, both models of these pliers passed this test.
+To test the quality of the designs, each plier needed to be able to pick up a through-hole resistor. As the .GIFs below demonstrate, both models of these pliers passed this test.
 
 <html lang="en">
 <head>
@@ -89,7 +89,7 @@ To test the quality of the designs, each plier needed to be able to pick up a th
 
 ## Final Considerations
 
-The legs, pliers, and body were designed as separate bodies in CAD and printed separately using a Voron single extrusion printer. Nevertheless, an assembly file was created that coupled all these bodies together that would allow someone to print these pliers using a dual-extrusion printer. Some notable print settings to control if using a dual-extrusion printer are temperature, speed, and layer height. These parameters ensure that the differences in surface energy, mechanical properties, chemical attributes, and cooling rates are minimized so that proper adhesion between different materials can be ensured.
+The legs, pliers, and body were designed as separate bodies in CAD and printed separately using a Voron single extrusion printer. Nevertheless, an assembly file was created that coupled all these bodies together, which would allow someone to print these pliers using a dual-extrusion printer. Some notable print settings to control if using a dual-extrusion printer are temperature, speed, and layer height. These parameters ensure that the differences in surface energy, mechanical properties, chemical attributes, and cooling rates are minimized so that proper adhesion between different materials can be ensured.
 
 ## CAD Model
 
