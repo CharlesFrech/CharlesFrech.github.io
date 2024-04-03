@@ -116,9 +116,9 @@ All information about multi-material printing is attributed to the lecture mater
   }
 </style>
 <body>
-    <img src="/assets/img/PliersJawsGallery.png" alt="Gallery Image 1">
-    <img src="/assets/img/PlierLegsGallery.png" alt="Gallery Image 2">
-    <img src="/assets/img/Plier1Gallery.png" alt="Gallery Image 3">
-    <img src="/assets/img/Plier2Gallery.png" alt="Gallery Image 4">
+    <img src="/assets/img/PliersJawsGallery.png" alt="Gallery Image 1" title="Image of Jaws">
+    <img src="/assets/img/PlierLegsGallery.png" alt="Gallery Image 2" title="Image of Legs">
+    <img src="/assets/img/Plier1Gallery.png" alt="Gallery Image 3" title="Image of First Iteration Pliers">
+    <img src="/assets/img/Plier2Gallery.png" alt="Gallery Image 4 title="Image of Second Iteration Pliers">
 </body>
 </html>
