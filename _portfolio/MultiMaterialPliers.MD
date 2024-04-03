@@ -23,7 +23,7 @@ For two separate plastics to effectively bond together, they must have similar q
 
 ## The Final Model
 
-The final model of the multi-material pliers had five pieces: two legs, two jaws, and a flexible body. The legs and jaws were 3D-printed with rigid PLA, and the body was printed with flexible TPU. The geometry of the legs was designed to mimic commercial pliers. They had circular bases and interior extrusions to allow for a better grip on the pliers. The jaws were angled so that they would get closer to each other with increasing length. The final chosen length of the pliers ensured that the distance between their tips was approximately 3 mm when in the unclamped position.  
+The final model of the multi-material pliers had five pieces: two legs, two jaws, and a flexible body. The legs and jaws were 3D-printed with rigid PLA, and the body was printed with flexible TPU. The geometry of the legs was designed to mimic commercial pliers. They had circular bases and interior extrusions to allow for a better grip on the pliers. The jaws were angled so that they would get closer to each other with increasing length. The final chosen length of the pliers ensured that the distance between the jaws was approximately 3 mm when in the unclamped position.  
 
 ![alt text](/assets/img/PliersImage.png)
 
