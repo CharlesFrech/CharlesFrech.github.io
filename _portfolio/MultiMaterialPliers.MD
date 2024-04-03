@@ -102,7 +102,7 @@ The legs, pliers, and body were designed as separate bodies in CAD and printed s
 
 ## Attributions
 
-All information about multi-material printing is attributed to the lecture material of Dr. David Florian. 
+All information about multi-material printing is attributed to the lecture material of Dr. David Florian. All images not of the pliers are attributed to the links attached to the images above.
 
 ## Gallery
 
