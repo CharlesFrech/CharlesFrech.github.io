@@ -23,6 +23,41 @@ Top-down modeling was used when designing this bike-specific phone holder becaus
 
 * ** Part 1: To attach the phone holder to the handlebars, a cylindrical base was first designed. This base had a 0.1 mm tolerance with a 24 mm handlebar. Furthermore, this piece contained two extrusions. One side of the model had a rectangular extrusion with two holes that match the diameter of M5 screws. The extrusion was orthogonal to the model and was split into two sections. The total length of the upper and lower blocks (including the gap between) is 16 mm, thereby manifesting this model is compatible with for a 16 mm M5 screw. This adjustable extrusion allows for this handlebar connector to be suitable with a variety of handlebar sizes. The second extrusion of this piece is a rectangular prism with a 10-degree taper (thereby making it trapezoidal). This extrusion was angled at 45 degrees from the horizontal plane dissecting the connector, which was determined to be an optimal angle for the phone’s visibility to the biker. This trapezoidal extrusion has two bumps at its end to enhance the phone case’s connection to this piece. This piece was printed out of PLA because of its necessary tensile strength and impact resistance. A major issue with this part was its obscure geometry, which required excessive support material. Therefore, the final surface of the part was rough. Nevertheless, the functionality was not hindered.
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Two Side-by-Side Images</title>
+    <style>
+        .container {
+            display: flex;
+        }
+        .image-container {
+            flex: 1;
+            margin: 10px;
+        }
+        .image-container img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="image-container">
+        <img src="/assets/img/HandleBarSideProfile.png" alt="First Image">
+    </div>
+    <div class="image-container">
+        <img src="/assets/img/HandleBarSideProfile.png" alt="Second Image">
+    </div>
+</div>
+
+</body>
+</html>
+
 * ** Part 2: The second piece of this assembly was a phone case. On the backside of the case, which has a thickness of 2 mm, there is a tapered rectangular extrusion to connect to the angled extrusion. This tapered designed of the male and female connections of the handlebar connector and the phone case optimizes the attachment between these two components. The female connection on the phone case has outward cutouts that match the bumps on the male connector with a clearance of 0.1 mm. The motivation behind his outward extrusion design is its simplicity. Compared to a ball-and-socket or screw mechanism, this push-and-pull mechanism is suitable for imprecision in 3D printing, and it still allows a biker to quickly adjust the orientation of their phone. This component was printed out of TPU because this elastic material is more susceptible to morphing. This capacity to was necessary because it enhanced the case’s connection to the tapered PLA insert as well as the fit of the phone in the case.
 
 * ** Parts 3/4: The final two components of this assembly were lids that were attached into the top and bottom of the phone case. These pieces enhanced the phone’s security in the case. The lids were printed out of PLA because of this plastic’s rigidity and quick printing. 
