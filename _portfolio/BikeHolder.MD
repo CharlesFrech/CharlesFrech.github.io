@@ -2,8 +2,8 @@
 title: "Bike Phone Holder"
 excerpt: "A multi-material and multi-component phone holder for a bike with a handlebar diameter ranging from 23 to 25 mm."
 header:
-  image: /assets/img/20240307_080959.jpg
-  teaser: /assets/img/PDMuFluidicDevice.jpg
+  image: /assets/img/FullyAssemblyUpwardsFront.png
+  teaser: /assets/img/FullyAssemblyUpwardsFront.png
 gallery:
   - image_path: assets/img/SideBySide.jpg
    
@@ -11,19 +11,13 @@ gallery:
 
 ## Introduction to Top-Down Modeling
 
-Top-down modeling is a design strategy in which the manufacturer starts by creating the overall assembly file and subsequently builds each part component in this singular file. This approach is different compared to bottom-up modeling in which the sub-components are designed separately and ultimately composed in a separate parent assembly file. This secondary strategy was used in the multi-material pliers and syringe pump CAD modeling processes. The traditional bottom-up process is desirable for smaller models with few components. However, top-down assembling should be leveraged with highly complex models with many components. It allows manufacturers to create and modify certain parts with respect to other ones in one file instead of having to analyze many multiple separate files. Furthermore, top-down modeling also allows for easy parametrization of dimensions, which further optimizes the speed and efficiency of the designing process.
+Top-down modeling is a design strategy in which the manufacturer starts by creating the overall assembly file and subsequently builds each part component in this singular file. This approach is different compared to bottom-up modeling in which the sub-components are designed separately and ultimately composed in a separate parent assembly file. This secondary strategy was used in the [multi-material pliers](https://charlesfrech.github.io/portfolio/MultiMaterialPliers/) and [syringe pump](https://charlesfrech.github.io/portfolio/SyringePump/) CAD modeling processes. The traditional bottom-up process is desirable for smaller models with few components. However, top-down assembling should be leveraged with highly complex models with many components. It allows manufacturers to create and modify certain parts with respect to other ones in one file instead of having to analyze many multiple separate files. Furthermore, top-down modeling also allows for easy parametrization of dimensions, which further optimizes the speed and efficiency of the designing process.
+
+<img src="/assets/img/TopdownSchematic.png" style="display:flex; margin:auto;">
 
 ## Rationale Behind the Design
 
-Top-down modeling was used when designing this bike-specific phone holder because many separate, connecting components were needed to make this assembly. The first step of the design process was to create a makeshift representation of the handlebars (a simple cylinder with a 25 mm diameter) and to import a model of a phone (an iPhone 15 pro was used in this model). Next, these two bodies were oriented to mimic how the final device would function and look like a physical model, and they were subsequently grounded. With these two fixed molds, the four major components of the model were designed.  
-
-![alt text](/assets/img/Screenshot 2024-03-19 201747.png "Strategies to Increase Diffusion")
-
-Moreover, another way to optimize mixing in microfluidic devices is to increase chaotic advection. Because the flow of fluids in these devices is laminar, mixing can be enhanced by creating microscale disturbances in the smooth flow. An important distinction to note regarding microscale mixing is that turbulent mixing is a high-energy, large-scale phenomenon that does not occur in microfluidics. Chaotic advection induces chaotic flow, but on a smaller scale that is suitable for the small channels in the microfluidic device. 
-
-<img src="/assets/img/Screenshot 2024-03-19 201821.png" style="display:flex; margin:auto;">
-
-Some of the decisions regarding the dimensions of the geometries used in the device relied on the constraints of the manufacturing process. Specifically, the resolution of the printer was limited to 25 micrometers, there had to be two primary mixing sections in the device (one by each team member), the aspect ratio had to be less than 4:1, and all geometries had to be at least 4 mm from the edge of the device. Nevertheless, through creative design techniques, this device utilizes multiple unique geometries that maximize diffusion and chaotic advection of the fluid.
+Top-down modeling was used when designing this bike-specific phone holder because many separate, connecting components were needed to make this assembly. The first step of the design process was to create a makeshift representation of the handlebars (a simple cylinder with a 25 mm diameter) and to import a model of a phone (an iPhone 15 pro was used in this model). Next, these two bodies were oriented to mimic how the final device would function and look like a physical model. With these two molds, the four major components of the model were designed.  
 
 ## The Device
 
