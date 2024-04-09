@@ -38,7 +38,7 @@ Top-down modeling was used when designing this bike-specific phone holder becaus
             margin: 10px;
         }
         .image-container img {
-            width: 100%;
+            width: 300px;
             height: auto;
             display: block;
         }
