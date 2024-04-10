@@ -43,6 +43,7 @@ The second extrusion of this piece is a rectangular prism with a 10-degree taper
     .image-container img {
         width: 50%; /* Adjust as needed */
         height: auto;
+        margin: 0 10px;
     }
 </style>
 </head>
@@ -74,6 +75,7 @@ This component was printed out of TPU because this elastic material is more susc
     .image-container img {
         width: 50%; /* Adjust as needed */
         height: auto;
+        margin: 0 10px;
     }
 </style>
 </head>
