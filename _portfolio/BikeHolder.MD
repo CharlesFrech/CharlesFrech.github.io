@@ -33,25 +33,31 @@ The second extrusion of this piece is a rectangular prism with a 10-degree taper
 
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Images Side by Side</title>
-  <style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Images Side by Side</title>
+<style>
     .image-container {
         display: flex;
         flex-wrap: wrap;
         justify-content: center; /* Center the images horizontally */
-        margin-top: 20px;
     }
-    .image-container img {
-      width: 300px;
-      height: auto;
-      margin: 10px;   
+    .image-container .row {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        margin-bottom: 20px; /* Add space between rows */
     }
-  </style>
+    .image-container .row img {
+        width: 30%; /* Adjust as needed */
+        height: auto;
+        margin: 0 10px; /* Add space between the images */
+    }
+</style>
 </head>
 <body>
-  <div class="image-container">
+
+<div class="image-container">
     <div class="row">
         <img src="/assets/img/LidInsertProfile.png" alt="Image 1">
         <img src="/assets/img/CaseOutsideFaceProfile.png" alt="Image 2">
@@ -59,6 +65,8 @@ The second extrusion of this piece is a rectangular prism with a 10-degree taper
     <div class="row">
         <img src="/assets/img/CaseSideProfile.png" alt="Image 3">
     </div>
+</div>
+
 </body>
 </html>
 
@@ -68,26 +76,26 @@ This component was printed out of TPU because this elastic material is more susc
 
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Images Side by Side</title>
-  <style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Images Side by Side</title>
+<style>
     .image-container {
         display: flex;
-        justify-content: center;
-        margin: 0 10px;
     }
     .image-container img {
-        width: 50%;
+        width: 50%; /* Adjust as needed */
         height: auto;
     }
-  </style>
+</style>
 </head>
 <body>
-  <div class="image-container">
+
+<div class="image-container">
     <img src="/assets/img/LidsFaceProfile.png" alt="Image 1">
     <img src="/assets/img/LidsOutwardProfile.png" alt="Image 2">
-  </div>
+</div>
+
 </body>
 </html>
 
