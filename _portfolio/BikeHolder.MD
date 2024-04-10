@@ -3,7 +3,7 @@ title: "Bike Phone Holder"
 excerpt: "A multi-material and multi-component phone holder for a bike with a handlebar diameter ranging from 23 to 25 mm."
 header:
   image: /assets/img/FullyAssemblyUpwardsFront.png
-  teaser: /assets/img/BikeMount v32
+  teaser: /assets/img/BikeMount v32.png
    
 ---
 
