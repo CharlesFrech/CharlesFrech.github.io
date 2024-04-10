@@ -60,7 +60,7 @@ The second extrusion of this piece is a rectangular prism with a 10-degree taper
 
 <div class="image-container">
     <div class="row">
-        <<img src="/assets/img/LidInsertProfile.png" alt="Image 3">
+        <img src="/assets/img/LidInsertProfile.png" alt="Image 3">
         <img src="/assets/img/CaseOutsideFaceProfile.png" alt="Image 2">
     </div>
     <div class="row">
