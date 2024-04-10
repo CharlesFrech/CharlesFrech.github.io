@@ -46,11 +46,11 @@ The second extrusion of this piece is a rectangular prism with a 10-degree taper
     .image-container .row {
         display: flex;
         justify-content: center;
-        width: auto;
+        width: 50%;
         margin-bottom: 20px; /* Add space between rows */
     }
     .image-container .row img {
-        width: auto; /* Adjust as needed */
+        width: 100%; /* Adjust as needed */
         height: auto;
         margin: 0 10px; /* Add space between the images */
     }
