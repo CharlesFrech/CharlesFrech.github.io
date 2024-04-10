@@ -13,7 +13,7 @@ Top-down modeling is a design strategy in which the manufacturer first creates t
 
 text-align: center;
 <img src="/assets/img/TopdownSchematic.png" style="display:flex; margin:auto;">
-<span class="image-title">[Schematic of Types of Designs](https://mungfali.com/post/791E71B031352D66F4C66ADE9CE802C28A96754E)</span>
+<span class="image-title">[Shematic of Top-Down vs. Bottom-Up Designing](https://mungfali.com/post/791E71B031352D66F4C66ADE9CE802C28A96754E)</span>
 
 
 ## Rationale Behind the Design
@@ -46,7 +46,7 @@ The second extrusion of this piece is a rectangular prism with a 10-degree taper
     .image-container .row {
         display: flex;
         justify-content: center;
-        width: 100%;
+        width: 50%;
         margin-bottom: 20px; /* Add space between rows */
     }
     .image-container .row img {
