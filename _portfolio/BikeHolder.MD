@@ -4,8 +4,6 @@ excerpt: "A multi-material and multi-component phone holder for a bike with a ha
 header:
   image: /assets/img/FullyAssemblyUpwardsFront.png
   teaser: /assets/img/FullyAssemblyUpwardsFront.png
-gallery:
-  - image_path: assets/img/SideBySide.jpg
    
 ---
 
@@ -42,8 +40,9 @@ The second extrusion of this piece is a rectangular prism with a 10-degree taper
         ustjify-content: center;
     }
     .image-container img {
-        width: 50%;
+        width: 33.33%;
         height: auto;
+        margin: 0 10px;
     }
 </style>
 </head>
@@ -52,6 +51,7 @@ The second extrusion of this piece is a rectangular prism with a 10-degree taper
 <div class="image-container">
     <img src="/assets/img/CaseInsideFaceProfile.png" alt="Image 1">
     <img src="/assets/img/CaseOutsideFaceProfile.png" alt="Image 2">
+    <img src="/assets/img/CaseSideProfile.png" alt="Image 3">
 </div>
 
 </body>
@@ -70,6 +70,7 @@ This component was printed out of TPU because this elastic material is more susc
     .image-container {
         display: flex;
         justify-content: center;
+        margin: 0 10px;
     }
     .image-container img {
         width: 33.33%;
@@ -97,8 +98,29 @@ To assemble the model, the user first slides the connector onto the handlebar an
 
 ## Attributions
 
-The CAD model of the iPhone 15 Pro is attributed to Travis Llado and can be found [here](https://grabcad.com/library/iphone-15-pro-1).
+The CAD model of the iPhone 15 Pro is attributed to Travis Llado and can be found [here](https://grabcad.com/library/iphone-15-pro-1). All images not of the model are attributed to the links attached to image.
 
-{% include gallery caption="Side-By-Side Comparison of Resin and PDMS Molds" %}
+## Gallery
 
-
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Four Images</title>
+</head>
+<style>
+  .container {
+    text-align: center;
+  }
+  img {
+      margin-bottom: 20px;
+  }
+</style>
+<body>
+    <img src="/assets/img/FullAsseblyUpwardsSide.png" alt="Gallery Image 1" title="Image of Jaws">
+    <img src="/assets/img/FullAssemblyLandscapeBack.png" alt="Gallery Image 2" title="Image of Legs">
+    <img src="/assets/img/FullAssemblyLandscapeSide.png" alt="Gallery Image 3" title="Image of First Iteration Pliers">
+    <img src="/assets/img/FullAssemblyUpwardsBack.png" alt="Gallery Image 4" title="Image of Second Iteration Pliers">
+    <img src="/assets/img/FullyAssemblyUpwardsFront.png" alt="Gallery Image 4" title="Image of Second Iteration Pliers">
+</body>
+</html>
