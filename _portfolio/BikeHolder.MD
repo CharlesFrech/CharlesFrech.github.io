@@ -39,39 +39,24 @@ The second extrusion of this piece is a rectangular prism with a 10-degree taper
 <style>
     .image-container {
         display: flex;
-        flex-wrap: wrap;
-        justify-content: center; /* Center the images horizontally */
     }
-    .image-container .row {
-        display: flex;
-        justify-content: center;
-        width: 100%;
-        margin-bottom: 20px; /* Add space between rows */
-    }
-    .image-container .row img {
-        width: 30%; /* Adjust as needed */
+    .image-container img {
+        width: 50%; /* Adjust as needed */
         height: auto;
-        margin: 0 10px; /* Add space between the images */
-    }
-    .image-container .large-image {
-        width: 100%; /* Adjust as needed */
     }
 </style>
 </head>
 <body>
 
 <div class="image-container">
-    <div class="row">
-        <img src="/assets/img/LidInsertProfile.png" alt="Image 1">
-        <img src="/assets/img/CaseOutsideFaceProfile.png" alt="Image 2">
-    </div>
-    <div class="row">
-        <img src="/assets/img/CaseSideProfile.png" alt="Image 3">
-    </div>
+      <img src="/assets/img/LidInsertProfile.png" alt="Image 1">
+      <img src="/assets/img/CaseOutsideFaceProfile.png" alt="Image 2">
 </div>
 
 </body>
 </html>
+
+<img src="/assets/img/CaseSideProfile.png" alt="Image 3" style="display:flex; margin:auto;">
 
 This component was printed out of TPU because this elastic material is more susceptible to morphing. This capacity to was necessary because it enhanced the case’s connection to the tapered PLA insert as well as the fit of the phone in the case.
 
