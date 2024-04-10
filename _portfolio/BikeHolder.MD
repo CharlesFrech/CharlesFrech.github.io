@@ -39,6 +39,7 @@ The second extrusion of this piece is a rectangular prism with a 10-degree taper
 <style>
     .image-container {
         display: flex;
+        ustjify-content: center;
     }
     .image-container img {
         width: 50%;
@@ -68,6 +69,7 @@ This component was printed out of TPU because this elastic material is more susc
 <style>
     .image-container {
         display: flex;
+        justify-content: center;
     }
     .image-container img {
         width: 33.33%;
@@ -78,7 +80,7 @@ This component was printed out of TPU because this elastic material is more susc
 <body>
 
 <div class="image-container">
-    <img src="/assets/img/CaseInsideFaceProfile.png" alt="Image 1">
+    <img src="/assets/img/LidsFaceProfile.png" alt="Image 1">
     <img src="/assets/img/LidsOutwardProfile.png" alt="Image 2">
     <img src="/assets/img/LidInsertProfile.png" alt="Image 3">
 </div>
