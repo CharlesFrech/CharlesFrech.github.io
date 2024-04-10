@@ -15,7 +15,6 @@ text-align: center;
 <img src="/assets/img/TopdownSchematic.png" style="display:flex; margin:auto;">
 <span class="image-title">[Shematic of Top-Down vs. Bottom-Up Designing](https://mungfali.com/post/791E71B031352D66F4C66ADE9CE802C28A96754E)</span>
 
-
 ## Rationale Behind the Design
 
 Top-down modeling was used when designing this bike-specific phone holder because many separate, connecting components were needed to make this assembly. The first step of the design process was to create a makeshift representation of the handlebars (a simple cylinder with a 25 mm diameter) and to import a model of a phone (an iPhone 15 pro was used in this model). Next, these two bodies were oriented to mimic how the final device would function and look like a physical model. With these two molds, the four major components of the model were designed.  
@@ -69,10 +68,10 @@ This component was printed out of TPU because this elastic material is more susc
 
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Images Side by Side</title>
-<style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Images Side by Side</title>
+  <style>
     .image-container {
         display: flex;
         justify-content: center;
@@ -82,15 +81,13 @@ This component was printed out of TPU because this elastic material is more susc
         width: 50%;
         height: auto;
     }
-</style>
+  </style>
 </head>
 <body>
-
-<div class="image-container">
+  <div class="image-container">
     <img src="/assets/img/LidsFaceProfile.png" alt="Image 1">
     <img src="/assets/img/LidsOutwardProfile.png" alt="Image 2">
-</div>
-
+  </div>
 </body>
 </html>
 
