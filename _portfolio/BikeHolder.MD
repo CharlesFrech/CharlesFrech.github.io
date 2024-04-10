@@ -12,6 +12,7 @@ header:
 Top-down modeling is a design strategy in which the manufacturer first creates the overall assembly file and subsequently builds each part component in this singular file. This approach is different compared to bottom-up modeling in which the sub-components are designed separately and ultimately composed in a separate parent assembly file. This secondary strategy was used in the [multi-material pliers](https://charlesfrech.github.io/portfolio/MultiMaterialPliers/) and [syringe pump](https://charlesfrech.github.io/portfolio/SyringePump/) CAD modeling processes. The traditional bottom-up process is desirable for smaller models with few components. However, top-down assembling should be leveraged with highly complex models with many components. It allows manufacturers to create and modify certain parts with respect to other ones in one file instead of having to analyze many multiple separate files. Furthermore, top-down modeling also allows for easy parametrization of dimensions, which further optimizes the speed and efficiency of the designing process.
 
 <img src="/assets/img/TopdownSchematic.png" style="display:flex; margin:auto;">
+<span class="image-title">Title for Image 1</span>
 
 ## Rationale Behind the Design
 
@@ -27,7 +28,7 @@ The second extrusion of this piece is a rectangular prism with a 10-degree taper
 
 <img src="/assets/img/HandlebarConnectorNubFaceProfile.png" style="display:flex; margin:auto;">
 
-* Part 2: The second piece of this assembly was a phone case. On the backside of the case, which has a thickness of 2 mm, there is a tapered rectangular extrusion to connect to the angled extrusion. This tapered designed of the male and female connections of the handlebar connector and the phone case optimizes the attachment between these two components. The female connection on the phone case has outward cutouts that match the bumps on the male connector. The motivation behind his outward extrusion design is its simplicity. Compared to a ball-and-socket or screw mechanism, this push-and-pull mechanism is suitable for imprecision in 3D printing, and it still allows a biker to quickly adjust the orientation of their phone. 
+* Part 2: The second piece of this assembly was a phone case. On the backside of the case, which has a thickness of 2 mm, there is a tapered rectangular extrusion to connect to the angled extrusion. This tapered designed of the male and female connections of the handlebar connector and the phone case optimizes the attachment between these two components. The female connection on the phone case has outward cutouts that match the bumps on the male connector. The motivation behind his outward extrusion design is its simplicity. Compared to a ball-and-socket or screw mechanism, this push-and-pull mechanism is suitable for imprecision in 3D printing, and it still allows a biker to quickly adjust the orientation of their phone. The phone case also had slits at each of its ends in which the lid components inserted.
 
 <html lang="en">
 <head>
@@ -47,7 +48,7 @@ The second extrusion of this piece is a rectangular prism with a 10-degree taper
         margin-bottom: 20px; /* Add space between rows */
     }
     .image-container .row img {
-        width: 30%; /* Adjust as needed */
+        width: 50%; /* Adjust as needed */
         height: auto;
         margin: 0 10px; /* Add space between the images */
     }
@@ -62,6 +63,7 @@ The second extrusion of this piece is a rectangular prism with a 10-degree taper
     </div>
     <div class="row">
         <img src="/assets/img/CaseSideProfile.png" alt="Image 3">
+        <img src="/assets/img/LidInsertProfile.png" alt="Image 3">
     </div>
 </div>
 
@@ -84,7 +86,7 @@ This component was printed out of TPU because this elastic material is more susc
         margin: 0 10px;
     }
     .image-container img {
-        width: 33.33%;
+        width: 50%;
         height: auto;
     }
 </style>
@@ -94,7 +96,6 @@ This component was printed out of TPU because this elastic material is more susc
 <div class="image-container">
     <img src="/assets/img/LidsFaceProfile.png" alt="Image 1">
     <img src="/assets/img/LidsOutwardProfile.png" alt="Image 2">
-    <img src="/assets/img/LidInsertProfile.png" alt="Image 3">
 </div>
 
 </body>
