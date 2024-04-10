@@ -37,21 +37,32 @@ The second extrusion of this piece is a rectangular prism with a 10-degree taper
 <style>
     .image-container {
         display: flex;
-        ustjify-content: center;
+        flex-wrap: wrap;
+        justify-content: center; /* Center the images horizontally */
     }
-    .image-container img {
-        width: 33.33%;
+    .image-container .row {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        margin-bottom: 20px; /* Add space between rows */
+    }
+    .image-container .row img {
+        width: 30%; /* Adjust as needed */
         height: auto;
-        margin: 0 10px;
+        margin: 0 10px; /* Add space between the images */
     }
 </style>
 </head>
 <body>
 
 <div class="image-container">
-    <img src="/assets/img/CaseInsideFaceProfile.png" alt="Image 1">
-    <img src="/assets/img/CaseOutsideFaceProfile.png" alt="Image 2">
-    <img src="/assets/img/CaseSideProfile.png" alt="Image 3">
+    <div class="row">
+        <img src="/assets/img/CaseInsideFaceProfile.png" alt="Image 1">
+        <img src="/assets/img/CaseOutsideFaceProfile.png" alt="Image 2">
+    </div>
+    <div class="row">
+        <img src="/assets/img/CaseSideProfile.png" alt="Image 3">
+    </div>
 </div>
 
 </body>
