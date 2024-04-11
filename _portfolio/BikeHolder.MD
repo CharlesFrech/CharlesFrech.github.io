@@ -2,14 +2,14 @@
 title: "Bike Phone Holder"
 excerpt: "A multi-material and multi-component phone holder for a bike with a handlebar diameter ranging from 23 to 25 mm."
 header:
-  image: /assets/img/FullyAssemblyUpwardsFront.png
-  teaser: /assets/img/ScreenShotmoldRendering.png
+  image: /assets/img/ScreenShotmoldRendering.png
+  teaser: /assets/img/IMG_5274.png
    
 ---
 
 ## Introduction to Top-Down Modeling
 
-Top-down modeling is a design strategy in which the manufacturer first creates the overall assembly file and subsequently builds each part component in this singular file. This approach is different compared to bottom-up modeling in which the sub-components are designed separately and ultimately composed in a separate parent assembly file. This secondary strategy was used in the [multi-material pliers](https://charlesfrech.github.io/portfolio/MultiMaterialPliers/) and [syringe pump](https://charlesfrech.github.io/portfolio/SyringePump/) CAD modeling processes. The traditional bottom-up process is desirable for smaller models with few components. However, top-down assembling should be leveraged with highly complex models with many components. It allows manufacturers to create and modify certain parts with respect to other ones in one file instead of having to analyze multiple separate files. Furthermore, top-down modeling also allows for easy parametrization of dimensions, which can optimize the speed and efficiency of the designing process.
+Top-down modeling is a design strategy in which the manufacturer first creates the overall assembly file and subsequently builds each part component in this singular file. This approach is different compared to bottom-up modeling in which the sub-components are designed separately and ultimately composed in a single parent assembly file. This secondary strategy was used in the [multi-material pliers](https://charlesfrech.github.io/portfolio/MultiMaterialPliers/) and [syringe pump](https://charlesfrech.github.io/portfolio/SyringePump/) CAD modeling processes. The traditional bottom-up process is desirable for smaller models with few components. However, top-down assembling should be leveraged with highly complex models with many components. It allows manufacturers to create and modify certain parts with respect to other ones in one file instead of having to analyze multiple separate files. Furthermore, top-down modeling also allows for easy parametrization of dimensions, which can optimize the speed and efficiency of the designing process.
 
 <img src="/assets/img/TopdownSchematic.png" style="display:flex; margin:auto;">
 <span class="image-title">[Shematic of Top-Down vs. Bottom-Up Designing](https://mungfali.com/post/791E71B031352D66F4C66ADE9CE802C28A96754E)</span>
@@ -20,14 +20,14 @@ Top-down modeling was used when designing this bike-specific phone holder becaus
 
 ## The Device
 
-* Part 1: To attach the phone holder to the handlebars, a cylindrical base was first designed. This base had a 0.1 mm tolerance with a handlebar with a diameter of 24 mm. Furthermore, this piece contained two extrusions. One side of the model had a rectangular extrusion with two holes that match the diameter of M5 screws. The extrusion was orthogonal to the model and was split into two sections. The total length of the upper and lower blocks (including the gap between) was 16 mm, thereby manifesting this model is compatible with for a 16 mm M5 screw. The M5 screw are locked with two M5 nuts. This adjustable extrusion allows for this handlebar connector to be suitable with a variety of handlebar sizes. A major issue with this part was its obscure geometry, which required excessive support material during the 3D printing process. Therefore, the final surface of the part was rough and stringy. Nevertheless, its functionality was not hindered. Future iterations of this model will break up this obscure piece into more simplistic components to minimize the probability of a print failure and enhance the surface finish of the final model.
+* Part 1: To attach the phone holder to the handlebars, a cylindrical base was first designed. This base had a 0.1 mm tolerance with a handlebar with a diameter of 24 mm. Furthermore, this piece contained two extrusions. One side of the model had a rectangular extrusion with two holes that match the diameter of M5 screws. The extrusion was orthogonal to the model and was split into two sections. The total length of the upper and lower blocks (including the gap between) was 16 mm, thereby manifesting this model is compatible with for a 16 mm M5 bolt. The M5 bolts are locked with two M5 nuts. This adjustable extrusion allows for this handlebar connector to be suitable with a variety of handlebar sizes. A major issue with this part was its obscure geometry, which required excessive support material during the 3D printing process. Therefore, the final surface of the part was rough and stringy. Nevertheless, its functionality was not hindered. Future iterations of this model will break up this obscure piece into more simplistic components to minimize the probability of a print failure and enhance the surface finish of the final model.
 <img src="/assets/img/HandleBarSideProfile.png" style="display:flex; margin:auto;">
 
-The second extrusion of this handlebar connector was a rectangular prism with a 10-degree taper (thereby making it trapezoidal). This extrusion was angled at 45 degrees from the screw holes, which was determined to be an optimal angle for the phone’s visibility to the biker. This trapezoidal extrusion has two bumps at its end to enhance the phone case’s connection to this piece. This piece was printed out of PLA because of its necessary tensile strength and impact resistance. Additoinally, the PLA material choice allows for a user to input M5 heat set inserts as an alternative mechanism to adjust the diameter of the connector (TPU is notcompatible with heat set inserts).
+The second extrusion of this handlebar connector was a rectangular prism with a 10-degree taper (thereby making it trapezoidal). This extrusion was angled at 45 degrees from the screw holes, which was determined to be an optimal angle for the phone’s visibility to the biker. This trapezoidal extrusion has two bumps at its end to enhance the phone case’s connection to this piece. This piece was printed out of PLA because of its necessary tensile strength and impact resistance. Additionally, the PLA material choice allows for a user to input M5 heat set inserts as an alternative mechanism to adjust the diameter of the connector (TPU is not compatible with heat set inserts).
 
 <img src="/assets/img/HandlebarConnectorNubFaceProfile.png" style="display:flex; margin:auto;">
 
-* Part 2: The second piece of this assembly was a phone case. On the backside of the case, which has a thickness of 2 mm, there is a tapered rectangular extrusion to connect to the angled extrusion on the handlebars. This tapered design optimizes the attachment between the male and female connections of the handlebar connector and the phone case. The female connection on the phone case has outward cutouts that match the bumps on the male connector. The motivation behind his outward extrusion design is its simplicity. Compared to a ball-and-socket or screw mechanism, this push-and-pull mechanism is suitable for imprecision in 3D printing, and it still allows a biker to quickly adjust the orientation of their phone. The phone case also had slits at each of its ends in which the lid components inserted.
+* Part 2: The second piece of this assembly was a phone case. On the backside of the case, which has a thickness of 2 mm, there is a tapered rectangular extrusion to connect to the angled extrusion on the handlebars. This tapered design optimizes the attachment between the male and female connections of the handlebar connector and the phone case. The female connection on the phone case has outward cutouts that match the bumps on the male connector. The motivation behind his outward extrusion design is its simplicity. Compared to a ball-and-socket or screw mechanism, this push-and-pull mechanism is suitable for imprecision in 3D printing, and it still allows a biker to quickly adjust the orientation of their phone. The phone case also had slits at each of its ends in which the lid components were inserted.
 
 <html lang="en">
 <head>
@@ -120,8 +120,11 @@ The CAD model of the iPhone 15 Pro is attributed to Travis Llado and can be foun
     <img src="/assets/img/FullAsseblyUpwardsSide.png" alt="Gallery Image 1" title="Image of Jaws">
     <img src="/assets/img/FullAssemblyLandscapeBack.png" alt="Gallery Image 2" title="Image of Legs">
     <img src="/assets/img/FullAssemblyLandscapeSide.png" alt="Gallery Image 3" title="Image of First Iteration Pliers">
+    <img src="/assets/img/FullyAssemblyUpwardsFront.png" alt="Image 1">
     <img src="/assets/img/FullAssemblyUpwardsBack.png" alt="Gallery Image 4" title="Image of Second Iteration Pliers">
-    <img src="/assets/img/FullyAssemblyUpwardsFront.png" alt="Gallery Image 4" title="Image of Second Iteration Pliers">
     <img src="/assets/img/CaseInsideFaceProfile.png" alt="Image 1">
+    <img src="/assets/img/IMG_5277.png" alt="Image 1">
+    <img src="/assets/img/IMG_5275.png" alt="Image 1">
+    <img src="/assets/img/IMG_5278.png" alt="Image 1">
 </body>
 </html>
