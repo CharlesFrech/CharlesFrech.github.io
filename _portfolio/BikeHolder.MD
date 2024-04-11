@@ -60,7 +60,7 @@ The second extrusion of this handlebar connector was a rectangular prism with a 
 
 This component was printed out of TPU because this elastic material is more susceptible to morphing. This capacity to was necessary because it enhanced the case’s connection to the tapered PLA insert, the fit of the phone in the case, and the case's link with the lids.
 
-* Parts 3/4: The final two components of this assembly were lids which attached into the aforementioned top and bottom slits of the phone case. These pieces enhanced the phone’s security in the case because this material is rigid and unable to deform under low stresses. The lids were printed out of PLA because of this plastic’s rigidity and quick printing. 
+* Parts 3/4: The final two components of this assembly were lids which attached into the aforementioned top and bottom slits of the phone case. These pieces enhanced the phone’s security in the case because they were printed out of PLA, which is rigid and has minimal deformation under low stresses. 
 
 <html lang="en">
 <head>
