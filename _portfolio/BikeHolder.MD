@@ -12,7 +12,7 @@ header:
 Top-down modeling is a design strategy in which the manufacturer first creates the overall assembly file and subsequently builds each part component in this singular file. This approach is different compared to bottom-up modeling in which the sub-components are designed separately and ultimately composed in a single parent assembly file. This secondary strategy was used in the [multi-material pliers](https://charlesfrech.github.io/portfolio/MultiMaterialPliers/) and [syringe pump](https://charlesfrech.github.io/portfolio/SyringePump/) CAD modeling processes. The traditional bottom-up process is desirable for smaller models with few components. However, top-down assembling should be leveraged with highly complex models with many components. It allows manufacturers to create and modify certain parts with respect to other ones in one file instead of having to analyze multiple separate files. Furthermore, top-down modeling also allows for easy parametrization of dimensions, which can optimize the speed and efficiency of the designing process.
 
 <img src="/assets/img/TopdownSchematic.png" style="display:flex; margin:auto;">
-<span class="image-title">[Shematic of Top-Down vs. Bottom-Up Designing](https://mungfali.com/post/791E71B031352D66F4C66ADE9CE802C28A96754E)</span>
+<span class="image-title">[Schematic of Top-Down vs. Bottom-Up Designing](https://mungfali.com/post/791E71B031352D66F4C66ADE9CE802C28A96754E)</span>
 
 ## Rationale Behind the Design
 
@@ -20,7 +20,7 @@ Top-down modeling was used when designing this bike-specific phone holder becaus
 
 ## The Device
 
-* Part 1: To attach the phone holder to the handlebars, a cylindrical base was first designed. This base had a 0.1 mm tolerance with a handlebar with a diameter of 24 mm. Furthermore, this piece contained two extrusions. One side of the model had a rectangular extrusion with two holes that match the diameter of M5 screws. The extrusion was orthogonal to the model and was split into two sections. The total length of the upper and lower blocks (including the gap between) was 16 mm, thereby manifesting this model is compatible with for a 16 mm M5 bolt. The M5 bolts are locked with two M5 nuts. This adjustable extrusion allows for this handlebar connector to be suitable with a variety of handlebar sizes. A major issue with this part was its obscure geometry, which required excessive support material during the 3D printing process. Therefore, the final surface of the part was rough and stringy. Nevertheless, its functionality was not hindered. Future iterations of this model will break up this obscure piece into more simplistic components to minimize the probability of a print failure and enhance the surface finish of the final model.
+* Part 1: To attach the phone holder to the handlebars, a cylindrical base was first designed. This base had a 0.1 mm tolerance with a handlebar with a diameter of 24 mm. Furthermore, this piece contained two extrusions. One side of the model had a rectangular extrusion with two holes that match the diameter of M5 bolts. The extrusion was orthogonal to the model and was split into two sections. The total length of the upper and lower blocks (including the gap between) was 16 mm, thereby manifesting this model is compatible with for a 16 mm M5 bolt. The M5 bolts are locked with two M5 nuts. This adjustable extrusion allows for this handlebar connector to be suitable with a variety of handlebar sizes. A major issue with this part was its obscure geometry, which required excessive support material during the 3D printing process. Therefore, the final surface of the part was rough and stringy. Nevertheless, its functionality was not hindered. Future iterations of this model will break up this obscure piece into more simplistic components to minimize the probability of a print failure and enhance the surface finish of the final model.
 <img src="/assets/img/HandleBarSideProfile.png" style="display:flex; margin:auto;">
 
 The second extrusion of this handlebar connector was a rectangular prism with a 10-degree taper (thereby making it trapezoidal). This extrusion was angled at 45 degrees from the screw holes, which was determined to be an optimal angle for the phone’s visibility to the biker. This trapezoidal extrusion has two bumps at its end to enhance the phone case’s connection to this piece. This piece was printed out of PLA because of its necessary tensile strength and impact resistance. Additionally, the PLA material choice allows for a user to input M5 heat set inserts as an alternative mechanism to adjust the diameter of the connector (TPU is not compatible with heat set inserts).
@@ -117,14 +117,13 @@ The CAD model of the iPhone 15 Pro is attributed to Travis Llado and can be foun
   }
 </style>
 <body>
-    <img src="/assets/img/FullAsseblyUpwardsSide.png" alt="Gallery Image 1" title="Image of Jaws">
-    <img src="/assets/img/FullAssemblyLandscapeBack.png" alt="Gallery Image 2" title="Image of Legs">
-    <img src="/assets/img/FullAssemblyLandscapeSide.png" alt="Gallery Image 3" title="Image of First Iteration Pliers">
-    <img src="/assets/img/FullyAssemblyUpwardsFront.png" alt="Image 1">
-    <img src="/assets/img/FullAssemblyUpwardsBack.png" alt="Gallery Image 4" title="Image of Second Iteration Pliers">
-    <img src="/assets/img/CaseInsideFaceProfile.png" alt="Image 1">
-    <img src="/assets/img/IMG_5277.jpg" alt="Image 1">
-    <img src="/assets/img/IMG_5275.jpg" alt="Image 1">
-    <img src="/assets/img/IMG_5278.jpg" alt="Image 1">
+    <img src="/assets/img/FullAsseblyUpwardsSide.png" alt="Gallery Image 1" title="Image of Assembly Side (Vertical)">
+    <img src="/assets/img/FullAssemblyLandscapeBack.png" alt="Gallery Image 2" title="Image of Assembly Back (Horizontal)">
+    <img src="/assets/img/FullAssemblyLandscapeSide.png" alt="Gallery Image 3" title="Image of Assembly Side (Horizontal)">
+    <img src="/assets/img/FullyAssemblyUpwardsFront.png" alt="Image of Assembly Front (Vertical)">
+    <img src="/assets/img/FullAssemblyUpwardsBack.png" alt="Gallery Image 4" title="Image of Assembly Back (Vertical)">
+    <img src="/assets/img/IMG_5277.jpg" alt="Assembly on Bike 1">
+    <img src="/assets/img/IMG_5275.jpg" alt="Assembly on Bike 2">
+    <img src="/assets/img/IMG_5278.jpg" alt="Assembly on Bike 3">
 </body>
 </html>
