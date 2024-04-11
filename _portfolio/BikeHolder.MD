@@ -3,7 +3,7 @@ title: "Bike Phone Holder"
 excerpt: "A multi-material and multi-component phone holder for a bike with a handlebar diameter ranging from 23 to 25 mm."
 header:
   image: /assets/img/ScreenShotmoldRendering.png
-  teaser: /assets/img/IMG_5274.png
+  teaser: /assets/img/IMG_5274.jpg
    
 ---
 
@@ -123,8 +123,8 @@ The CAD model of the iPhone 15 Pro is attributed to Travis Llado and can be foun
     <img src="/assets/img/FullyAssemblyUpwardsFront.png" alt="Image 1">
     <img src="/assets/img/FullAssemblyUpwardsBack.png" alt="Gallery Image 4" title="Image of Second Iteration Pliers">
     <img src="/assets/img/CaseInsideFaceProfile.png" alt="Image 1">
-    <img src="/assets/img/IMG_5277.png" alt="Image 1">
-    <img src="/assets/img/IMG_5275.png" alt="Image 1">
-    <img src="/assets/img/IMG_5278.png" alt="Image 1">
+    <img src="/assets/img/IMG_5277.jpg" alt="Image 1">
+    <img src="/assets/img/IMG_5275.jpg" alt="Image 1">
+    <img src="/assets/img/IMG_5278.jpg" alt="Image 1">
 </body>
 </html>
