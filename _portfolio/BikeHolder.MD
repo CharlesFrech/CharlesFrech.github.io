@@ -89,7 +89,7 @@ This component was printed out of TPU because this elastic material is more susc
 </body>
 </html>
 
-## Assembilng the Device
+## Assembling the Device
 
 To assemble the model, the user first slides the connector onto the handlebar and locks the M5 with two compatible M5 nuts. The biker will next attach the case to the angled extrusion on the handlebar connector in the desired orientation. They finally set the phone in the case and ensure its stability by inserting the lids. 
 
