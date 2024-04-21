@@ -3,11 +3,9 @@ title: "Pickleball Paddle"
 excerpt: "A multimaterial 3D-printed pickleball paddle optimized for a player who incorporates power and control into their play."
 header:
   image: /assets/img/RenderedFullPaddle.png
-  teaser: /assets/img/PaddleFullProfileFlat.jpg
+  teaser: /assets/img/PaddleFullProfileUpwards.jpg
 gallery:
   - image_path: assets/img/PaddleFullProfileFlat.jpg
-  - image_path: assets/img/PaddleFullProfileUpwards.jpg
-  - image_path: assets/img/PaddleSideProfile.jpg
    
 ---
 
@@ -15,33 +13,8 @@ gallery:
 
 This pickleball paddle was designed in Fusion 360 using a top-down modeling approach because this model had many interconnected components. The total length of the paddle and handle was 33.79 cm, and the maximum width of the paddle was 17.40 cm. These dimensions satisfy the size requirements of a pickle paddle according to section 2.E.3 of the USA Pickleball Official Rulebook. While this paddle is smaller than standard, this design decision stemmed from intentional efforts to optimize weight distribution in the paddle (see below discussion). Furthermore, the smaller paddle size increased the maneuverability of the paddle. The paddle and handle were both printed out of rigid PLA and the paddle’s surface is smooth; it contains no delamination, holes, cracks, or indentations. The paddle has to M4 heatset inserts on its base profile. There are two holes on the handle which allow for the handle to attach to the paddle using two 12 mm M4 hex bolts. 
 
-
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Images Side by Side</title>
-<style>
-    .image-container {
-        display: flex;
-        justify-content: center;
-    }
-    .image-container img {
-        width: 50%; /* Adjust as needed */
-        height: auto;
-        margin: 0 10px;
-    }
-</style>
-</head>
-<body>
-
-<div class="image-container">
-      <img src="/assets/img/RenderedPaddle.png" alt="Image 1">
-      <img src="/assets/img/ScrewPaddleProfileUpdated.png" alt="Image 2">
-</div>
-
-</body>
-</html>
+img src="/assets/img/RenderedPaddle.png" alt="Image 1"
+img src="/assets/img/ScrewPaddleProfileUpdated.png" alt="Image 2"
 
 ## TPU Handle
 
