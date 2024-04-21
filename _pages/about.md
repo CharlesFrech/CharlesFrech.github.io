@@ -26,6 +26,9 @@ Charlie prides himself on his work ethic and eagerness to explore new topics. Hi
 Charlie is proficient in CAD modeling programs like Fusion 360 and AutoCAD. He is also able to convert these models into real-life parts using additive manufacturing technologies. Charlie currently has experience with:
 
 * Fused Filament Fabrication (FFF)
+* Laser Cutting
+* Vat Photopolymerization (VPP)
+* Selective Laser Sintering (SLS)
 
 ## Major Awards and Accomplishments
 Some of Charlie's major past accomplishments include:
