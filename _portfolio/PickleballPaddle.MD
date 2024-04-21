@@ -6,6 +6,7 @@ header:
   teaser: /assets/img/PaddleFullProfileFlat.jpg
 gallery:
   - image_path: assets/img/PaddleFullProfileFlat.jpg
+  - image_path: assets/img/PaddleFullProfileUpwards.jpg
   - image_path: assets/img/PaddleSideProfile.jpg
    
 ---
@@ -36,7 +37,7 @@ This pickleball paddle was designed in Fusion 360 using a top-down modeling appr
 
 <div class="image-container">
       <img src="/assets/img/RenderedPaddle.png" alt="Image 1">
-      <img src="/assets/img/ScrewPaddleProfile.png" alt="Image 2">
+      <img src="/assets/img/ScrewPaddleProfileUpdated.png" alt="Image 2">
 </div>
 
 </body>
