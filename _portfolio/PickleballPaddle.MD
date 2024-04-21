@@ -3,7 +3,7 @@ title: "Pickleball Paddle"
 excerpt: "A multimaterial 3D-printed pickleball paddle optimized for a player who incorporates power and control into their play."
 header:
   image: /assets/img/RenderedFullPaddle.png
-  teaser: /assets/img/PaddleFullProfileUpwards.jpg
+  teaser: /assets/img/PaddleFullProfileFlat.jpg
 gallery:
   - image_path: assets/img/PaddleFullProfileFlat.jpg
    
@@ -40,6 +40,6 @@ The weight of the paddle was optimized for a player who likes to use power and c
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4483548c63010b6f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Side-By-Side Comparison of Resin and PDMS Molds" %}
+{% include gallery caption="Image of Fully-Assembled Paddle" %}
 
 
