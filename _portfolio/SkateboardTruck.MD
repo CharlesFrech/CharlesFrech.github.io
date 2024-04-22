@@ -79,7 +79,7 @@ The unique benefits of the SLS manufacturing process and the generative design m
 <body>
 
 <div class="center">
-  <p>[Siemiens Turbine Engine](https://www.3yourmind.com/news/functional-motorized-3d-printed-turbine-model-for-siemens)</p>
+  <p><a href="https://www.3yourmind.com/news/functional-motorized-3d-printed-turbine-model-for-siemens">Siemiens turbine engine</a></p>
 </div>
 
 </body>
