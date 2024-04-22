@@ -28,7 +28,11 @@ The unique benefits of the SLS manufacturing process and the generative design m
 The generative design process is most useful in applications where multiple complex solutions to a problem that satisfy various loading constraints are required. Therefore, when coupled with additive manufacturing techniques like SLS, generative design can be particularly useful in the automotive and aeronautical industries (see above discussion). As a biomedical engineer, I am curious how this technology will grow concurrently with novel methods additive tissue engineering. I predict that in the future, generative design will be able to generate sophisticated tissue geometries that can be subsequently manufactured with novel additive manufacturing techniques. Nevertheless, generative design does have flaws. Firstly, it is very complex and requires a lot of practice to fully grasp. When designing the skateboard truck mount, I was initially very confused about how to leverage different obstacles and preserve geometry features to direct the AI into building my final part. Additionally, the generative design model required a strong fundamental understanding of forces and loading constraints, which might be a challenge for many engineers. Finally, the generative design process was often slow to produce models. Thus, I think there is little benefit of generative design to individual projects that can be solved using traditional CAD practices. However, for individuals or companies that are manufacturing sophisticated or interconnected parts, I appreciate the power of leveraging this technology. 
 
 ## CAD Models
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e40ad6560210ab50b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+* **Aluminum Truck**
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee8f8ee9f2c9f51c9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+* **Nylon 12 Truck**
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e857fb08e66e8bf80?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Attributions
 
