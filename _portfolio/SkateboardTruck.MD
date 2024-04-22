@@ -13,12 +13,6 @@ Powder bed fusion (also known as powder-based selective laser sintering, or pSLS
 
 <img src="/assets/img/SLSPritners.jpg" alt="Image 3" style="display:flex; margin:auto;">
 
-
-
-## Pairing Powder Bed Fusion and Generative Design
-
-The unique benefits of the SLS manufacturing process and the generative design modeling method can directly benefit one another. 
-
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -39,6 +33,9 @@ The unique benefits of the SLS manufacturing process and the generative design m
 </body>
 </html>
 
+## Pairing Powder Bed Fusion and Generative Design
+
+The unique benefits of the SLS manufacturing process and the generative design modeling method can directly benefit one another. 
 
 * **Benefit 1:** Firstly, generative design's ability to explore unconventional solutions and develop complex geometries that satisfy given constraints aligns with SLS’s capability to manufacture sophisticated shapes with high precision. This combination unlocks new design possibilities that were previously unattainable using conventional manufacturing methods like FFF or resin printing. This benefit is very relevant in aerospace and automotive applications. For example, many components of cars and planes need to be lightweight to optimize fuel efficiency. Thus, a manufacturer in one of these industries can use generative design to create complex geometries for these parts. Then, they can subsequently leverage the high precision manufacturing capabilities of SLS to manufacture the design. 
 
@@ -58,7 +55,7 @@ The unique benefits of the SLS manufacturing process and the generative design m
 <body>
 
 <div class="center">
-  <p>[Examples of SLS-printed aircraft parts with complex geometries.](https://3dprintingindustry.com/news/hexcel-makes-boeings-qualified-provider-list-for-3d-printed-aircraft-components-160887/)</p>
+  <p><a href="https://3dprintingindustry.com/news/hexcel-makes-boeings-qualified-provider-list-for-3d-printed-aircraft-components-160887/">Examples of SLS-printed aircraft parts with complex geometries</a></p>
 </div>
 
 </body>
@@ -137,7 +134,7 @@ The unique benefits of the SLS manufacturing process and the generative design m
 <body>
 
 <div class="center">
-  <p>[SLS Airplane Parts Printer Factory](https://3dprintingindustry.com/news/materialise-and-eos-become-first-to-3d-print-flight-ready-sls-parts-for-airbus-190816/)</p>
+    <p><a href=https://3dprintingindustry.com/news/materialise-and-eos-become-first-to-3d-print-flight-ready-sls-parts-for-airbus-190816/">SLS Airplane Parts Printer Factory</a></p>
 </div>
 
 </body>
