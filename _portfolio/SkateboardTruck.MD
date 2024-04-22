@@ -33,7 +33,6 @@ The unique benefits of the SLS manufacturing process and the generative design m
 <body>
 
 <div class="center">
-  <h1>Your Heading Text Here</h1>
   <p>[Formlabs Fuse 1+ SLS printer](https://alleghenyedusys.com/product/formlabs-fuse-1-3d-printer)</p>
 </div>
 
@@ -59,7 +58,6 @@ The unique benefits of the SLS manufacturing process and the generative design m
 <body>
 
 <div class="center">
-  <h1>Your Heading Text Here</h1>
   <p>[Examples of SLS-printed aircraft parts with complex geometries.](https://3dprintingindustry.com/news/hexcel-makes-boeings-qualified-provider-list-for-3d-printed-aircraft-components-160887/)</p>
 </div>
 
@@ -84,7 +82,6 @@ The unique benefits of the SLS manufacturing process and the generative design m
 <body>
 
 <div class="center">
-  <h1>Your Heading Text Here</h1>
   <p>[Siemiens Turbine Engine](https://www.3yourmind.com/news/functional-motorized-3d-printed-turbine-model-for-siemens)</p>
 </div>
 
@@ -140,7 +137,6 @@ The unique benefits of the SLS manufacturing process and the generative design m
 <body>
 
 <div class="center">
-  <h1>Your Heading Text Here</h1>
   <p>[SLS Airplane Parts Printer Factory](https://3dprintingindustry.com/news/materialise-and-eos-become-first-to-3d-print-flight-ready-sls-parts-for-airbus-190816/)</p>
 </div>
 
