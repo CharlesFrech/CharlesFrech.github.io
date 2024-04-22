@@ -9,7 +9,9 @@ header:
 
 ## Introduction to Generative Design and Powder Bed Fusion 
 
-Powder bed fusion (also known as powder-based selective laser sintering, or pSLS) is an additive manufacturing process in which the polymer powder is heated just below its melting point by a laser that traverses over its surface. The laser produces a small amount of energy that melts the powder into the desired geometry. For each successive layer, a thin layer of unfused powder is spread on top of the part. In this project, generative design was harnessed to create a truck hanger for an electric skateboard. Moreover, generative design is an iterative design process that uses artificial intelligence to create a singular, lightweight geometry based on the constraints that a manufacturer assigns to the model. In this project, generative design was harnessed to create a truck hanger for an electric skateboard. The truck also incorporated a motor mount for an electric DC motor.  
+Powder bed fusion (also known as powder-based selective laser sintering, or pSLS) is an additive manufacturing process in which the polymer powder is heated just below its melting point by a laser that traverses over its surface. The laser produces a small amount of energy that melts the powder into the desired geometry. For each successive layer, a thin layer of unfused powder is spread on top of the part. In this project, generative design was harnessed to create a truck hanger for an electric skateboard. Moreover, generative design is an iterative design process that uses artificial intelligence to create a singular, lightweight geometry based on the constraints that a manufacturer assigns to the model. In this project, generative design was harnessed to create a truck hanger for an electric skateboard. The truck also incorporated a motor mount for an electric DC motor.
+
+<img src="/assets/img/SLSPritners.jpg" alt="Image 3" style="display:flex; margin:auto;">
 
 ## Pairing Powder Bed Fusion and Generative Design
 
@@ -19,7 +21,9 @@ The unique benefits of the SLS manufacturing process and the generative design m
 
 <img src="/assets/img/Screenshot 2024-04-21 195813.png" alt="Image 3" style="display:flex; margin:auto;">
 
-* **Benefit 2:** Moreover, pairing SLS and generative design has the potential to minimize material waste. The Fusion 360 generative design feature has a specific option that  directs the algorithm to minimize material usage. If a manufacturer wants to minimize material usage, SLS is an ideal additive manufacturing technique to utilize because it does not require support material for overhangs. Rather, the loose powder in the powder bed is sufficient to hold the growing part.  In aviation, designing turbine blades is an example of coupling these tools together. Specifically, these blades have unique shapes and structures that would consequently support material if manufactured with other 3D-printing techniques.
+* **Benefit 2:** Moreover, pairing SLS and generative design has the potential to minimize material waste. The Fusion 360 generative design feature has a specific option that  directs the algorithm to minimize material usage. If a manufacturer wants to minimize material usage, SLS is an ideal additive manufacturing technique to utilize because it does not require support material for overhangs. Rather, the loose powder in the powder bed is sufficient to hold the growing part.  In aviation and automation, designing intricate comoponents like turbines is an example of coupling these tools together. In 2017, Siemens, a manufacturing company, developed a turbine engine, manufactured entirely using SLS. There are many of components in this device with unique shapes and structures that would typically require support material if manufactured with other 3D-printing techniques. However, with SLS, this model required no support material.
+
+<img src="/assets/img/Screenshot 2024-04-21 203736.png" alt="Image 3" style="display:flex; margin:auto;">
 
 * **Benefit 3:** Furthermore, a manufacturer can apply many different materials to a single generative design process. Thus, many parts made from different materials can be generated under the same loading conditions. This particular advantage of generative design was leveraged in this skateboard truck project. Specifically, two trucks were ultimately digitally generated: one made from Nylon 12 (see first photo below) and one from ALSi10Mg (see second photo below). SLS, as a manufacturing method, is compatible with a wide variety of materials with diverse mechanical properties. Thus, the capability to design with different materials and produce models with different materials manifests a further reason why these technologies can be paired. In the automotive and aeronautical industries, manufacturers must test a wide variety of materials when designing exterior components to optimize impact resistance, energy absorption, rigidity, and deformation characteristics.
 
@@ -79,7 +83,7 @@ The generative design process is most useful in applications where multiple comp
 
 <div class="image-container">
       <img src="/assets/img/Screenshot 2024-04-21 150721.png" alt="Image 1">
-      <img src="/assets/img/Screenshot 2024-04-21 150704" alt="Image 2">
+      <img src="/assets/img/Screenshot 2024-04-21 150704.png" alt="Image 2">
 </div>
 
 </body>
