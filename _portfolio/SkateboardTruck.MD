@@ -134,12 +134,11 @@ The unique benefits of the SLS manufacturing process and the generative design m
 <body>
 
 <div class="center">
-    <p><a href=https://3dprintingindustry.com/news/materialise-and-eos-become-first-to-3d-print-flight-ready-sls-parts-for-airbus-190816/">SLS Airplane Parts Printer Factory</a></p>
+    <p><a href="https://3dprintingindustry.com/news/materialise-and-eos-become-first-to-3d-print-flight-ready-sls-parts-for-airbus-190816/">SLS Airplane Parts Printer Factory</a></p>
 </div>
 
 </body>
 </html>
-
 
 ## Reflection on Generative Design
 
