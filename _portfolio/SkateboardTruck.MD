@@ -48,8 +48,6 @@ The unique benefits of the SLS manufacturing process and the generative design m
 </body>
 </html>
 
-<img src="/assets/img/CaseSideProfile.png" alt="Image 3" style="display:flex; margin:auto;">
-
 * **Benefit 4:** Finally, a fourth benefit that directly couples these two technologies is the opportunity to maximize manufacturing productivity. Generative design finds creative solutions to problems humans might otherwise overlook, which can save time and resources during the creative process. Furthermore, SLS is particularly advantageous compared to other additive manufacturing techniques because manufacturing time does not scale with print volume. Because SLS is an iterative process that manufactures parts on a layer-by-layer basis, it is suitable for batch processing, and it is the fastest 3D-pritning technology when the build volume is packed appropriately. Thus, the coupling of this software and hardware can directly optimize manufacturing processes. 
 
 ## Reflection on Generative Design
@@ -69,3 +67,5 @@ All information about generative design and SLS printing is attributed to the le
 
 ## Gallery
 
+<img src="/assets/img/Screenshot 2024-04-21 193419.png" alt="Image 3" style="display:flex; margin:auto;">
+<img src="/assets/img/Screenshot 2024-04-21 150427.png" alt="Image 3" style="display:flex; margin:auto;">
