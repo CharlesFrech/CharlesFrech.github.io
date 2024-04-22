@@ -33,7 +33,7 @@ The unique benefits of the SLS manufacturing process and the generative design m
 <body>
 
 <div class="center">
-  <p>[Formlabs Fuse 1+ SLS printer](https://alleghenyedusys.com/product/formlabs-fuse-1-3d-printer)</p>
+  <p><a href="https://alleghenyedusys.com/product/formlabs-fuse-1-3d-printer">Formlabs Fuse 1+ SLS printer</a></p>
 </div>
 
 </body>
