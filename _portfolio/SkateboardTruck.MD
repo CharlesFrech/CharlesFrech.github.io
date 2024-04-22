@@ -1,8 +1,8 @@
 ---
-title: "Skateboard Truck Hander"
+title: "Skateboard Truck Hanger"
 excerpt: "A skateboard truck hanger design using generative design and SLS printed with Nylon 12 powder."
 header:
-  image:
+  image: /assets/img/Screenshot 2024-04-21 150427.png
   teaser:
    
 ---
@@ -19,7 +19,36 @@ The unique benefits of the SLS manufacturing process and the generative design m
 
 * **Benefit 2:** Moreover, pairing SLS and generative design has the potential to minimize material waste. The Fusion 360 generative design feature has a specific option that  directs the algorithm to minimize material usage. If a manufacturer wants to minimize material usage, SLS is an ideal additive manufacturing technique to utilize because it does not require support material for overhangs. Rather, the loose powder in the powder bed is sufficient to hold the growing part.  In aviation, designing turbine blades is an example of coupling these tools together. Specifically, these blades have unique shapes and structures that would consequently support material if manufactured with other 3D-printing techniques.
 
-* **Benefit 3:** Furthermore, a manufacturer can apply many different materials to a single generative design process. Thus, many parts made from different materials can be generated under the same loading conditions. This particular advantage of generative design was leveraged in this skateboard truck project. Specifically, two trucks were ultimately digitally generated: one made from Nylon 12 and one from ALSi10Mg (a common aluminum alloy). SLS, as a manufacturing method, is compatible with a wide variety of materials with diverse mechanical properties. Thus, the capability to design with different materials and produce models with different materials manifests a further reason why these technologies can be paired. In the automotive and aeronautical industries, manufacturers must test a wide variety of materials when designing exterior components to optimize impact resistance, energy absorption, rigidity, and deformation characteristics.
+* **Benefit 3:** Furthermore, a manufacturer can apply many different materials to a single generative design process. Thus, many parts made from different materials can be generated under the same loading conditions. This particular advantage of generative design was leveraged in this skateboard truck project. Specifically, two trucks were ultimately digitally generated: one made from Nylon 12 (see first photo below) and one from ALSi10Mg (see second photo below). SLS, as a manufacturing method, is compatible with a wide variety of materials with diverse mechanical properties. Thus, the capability to design with different materials and produce models with different materials manifests a further reason why these technologies can be paired. In the automotive and aeronautical industries, manufacturers must test a wide variety of materials when designing exterior components to optimize impact resistance, energy absorption, rigidity, and deformation characteristics.
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Images Side by Side</title>
+<style>
+    .image-container {
+        display: flex;
+        justify-content: center;
+    }
+    .image-container img {
+        width: 50%; /* Adjust as needed */
+        height: auto;
+        margin: 0 10px;
+    }
+</style>
+</head>
+<body>
+
+<div class="image-container">
+      <img src="/assets/img/Screenshot 2024-04-21 152504.png" alt="Image 1">
+      <img src="/assets/img/Screenshot 2024-04-21 152306.png" alt="Image 2">
+</div>
+
+</body>
+</html>
+
+<img src="/assets/img/CaseSideProfile.png" alt="Image 3" style="display:flex; margin:auto;">
 
 * **Benefit 4:** Finally, a fourth benefit that directly couples these two technologies is the opportunity to maximize manufacturing productivity. Generative design finds creative solutions to problems humans might otherwise overlook, which can save time and resources during the creative process. Furthermore, SLS is particularly advantageous compared to other additive manufacturing techniques because manufacturing time does not scale with print volume. Because SLS is an iterative process that manufactures parts on a layer-by-layer basis, it is suitable for batch processing, and it is the fastest 3D-pritning technology when the build volume is packed appropriately. Thus, the coupling of this software and hardware can directly optimize manufacturing processes. 
 
