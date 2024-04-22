@@ -13,17 +13,84 @@ Powder bed fusion (also known as powder-based selective laser sintering, or pSLS
 
 <img src="/assets/img/SLSPritners.jpg" alt="Image 3" style="display:flex; margin:auto;">
 
+
+
 ## Pairing Powder Bed Fusion and Generative Design
 
 The unique benefits of the SLS manufacturing process and the generative design modeling method can directly benefit one another. 
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Center Text</title>
+<style>
+  .center {
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="center">
+  <h1>Your Heading Text Here</h1>
+  <p>[Formlabs Fuse 1+ SLS printer](https://alleghenyedusys.com/product/formlabs-fuse-1-3d-printer)</p>
+</div>
+
+</body>
+</html>
+
 
 * **Benefit 1:** Firstly, generative design's ability to explore unconventional solutions and develop complex geometries that satisfy given constraints aligns with SLS’s capability to manufacture sophisticated shapes with high precision. This combination unlocks new design possibilities that were previously unattainable using conventional manufacturing methods like FFF or resin printing. This benefit is very relevant in aerospace and automotive applications. For example, many components of cars and planes need to be lightweight to optimize fuel efficiency. Thus, a manufacturer in one of these industries can use generative design to create complex geometries for these parts. Then, they can subsequently leverage the high precision manufacturing capabilities of SLS to manufacture the design. 
 
 <img src="/assets/img/Screenshot 2024-04-21 195813.png" alt="Image 3" style="display:flex; margin:auto;">
 
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Center Text</title>
+<style>
+  .center {
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="center">
+  <h1>Your Heading Text Here</h1>
+  <p>[Examples of SLS-printed aircraft parts with complex geometries.](https://3dprintingindustry.com/news/hexcel-makes-boeings-qualified-provider-list-for-3d-printed-aircraft-components-160887/)</p>
+</div>
+
+</body>
+</html>
+
 * **Benefit 2:** Moreover, pairing SLS and generative design has the potential to minimize material waste. The Fusion 360 generative design feature has a specific option that  directs the algorithm to minimize material usage. If a manufacturer wants to minimize material usage, SLS is an ideal additive manufacturing technique to utilize because it does not require support material for overhangs. Rather, the loose powder in the powder bed is sufficient to hold the growing part.  In aviation and automation, designing intricate comoponents like turbines is an example of coupling these tools together. In 2017, Siemens, a manufacturing company, developed a turbine engine, manufactured entirely using SLS. There are many of components in this device with unique shapes and structures that would typically require support material if manufactured with other 3D-printing techniques. However, with SLS, this model required no support material.
 
 <img src="/assets/img/Screenshot 2024-04-21 203736.png" alt="Image 3" style="display:flex; margin:auto;">
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Center Text</title>
+<style>
+  .center {
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="center">
+  <h1>Your Heading Text Here</h1>
+  <p>[Siemiens Turbine Engine](https://www.3yourmind.com/news/functional-motorized-3d-printed-turbine-model-for-siemens)</p>
+</div>
+
+</body>
+</html>
+
 
 * **Benefit 3:** Furthermore, a manufacturer can apply many different materials to a single generative design process. Thus, many parts made from different materials can be generated under the same loading conditions. This particular advantage of generative design was leveraged in this skateboard truck project. Specifically, two trucks were ultimately digitally generated: one made from Nylon 12 (see first photo below) and one from ALSi10Mg (see second photo below). SLS, as a manufacturing method, is compatible with a wide variety of materials with diverse mechanical properties. Thus, the capability to design with different materials and produce models with different materials manifests a further reason why these technologies can be paired. In the automotive and aeronautical industries, manufacturers must test a wide variety of materials when designing exterior components to optimize impact resistance, energy absorption, rigidity, and deformation characteristics.
 
@@ -57,6 +124,29 @@ The unique benefits of the SLS manufacturing process and the generative design m
 * **Benefit 4:** Finally, a fourth benefit that directly couples these two technologies is the opportunity to maximize manufacturing productivity. Generative design finds creative solutions to problems humans might otherwise overlook, which can save time and resources during the creative process. Furthermore, SLS is particularly advantageous compared to other additive manufacturing techniques because manufacturing time does not scale with print volume. Because SLS is an iterative process that manufactures parts on a layer-by-layer basis, it is suitable for batch processing, and it is the fastest 3D-pritning technology when the build volume is packed appropriately. Thus, the coupling of this software and hardware can directly optimize manufacturing processes. 
 
 <img src="/assets/img/Screenshot 2024-04-21 195941.png" alt="Image 3" style="display:flex; margin:auto;">
+
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Center Text</title>
+<style>
+  .center {
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="center">
+  <h1>Your Heading Text Here</h1>
+  <p>[SLS Airplane Parts Printer Factory](https://3dprintingindustry.com/news/materialise-and-eos-become-first-to-3d-print-flight-ready-sls-parts-for-airbus-190816/)</p>
+</div>
+
+</body>
+</html>
+
 
 ## Reflection on Generative Design
 
