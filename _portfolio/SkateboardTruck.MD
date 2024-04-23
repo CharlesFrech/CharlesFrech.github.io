@@ -201,8 +201,8 @@ All information about generative design and SLS printing is attributed to the le
 
 <img src="/assets/img/Screenshot 2024-04-21 150427.png" alt="Image 3" style="display:flex; margin:auto;">
 
-<img src="/assets/img/IMG_3042.jpg" alt="Image 3" style="display:flex; margin:auto;">
+<img src="/assets/img/IMG_3044.jpg" alt="Image 3" style="display:flex; margin:auto;">
 
 <img src="/assets/img/IMG_3043.jpg" alt="Image 3" style="display:flex; margin:auto;">
 
-<img src="/assets/img/IMG_3044.jpg" alt="Image 3" style="display:flex; margin:auto;">
+<img src="/assets/img/IMG_3042.jpg" alt="Image 3" style="display:flex; margin:auto;">
