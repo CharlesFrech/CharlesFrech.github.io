@@ -37,7 +37,7 @@ Powder bed fusion (also known as powder-based selective laser sintering, or pSLS
 
 The unique benefits of the SLS manufacturing process and the generative design modeling method can directly benefit one another. 
 
-* **Benefit 1:** Firstly, generative design's ability to explore unconventional solutions and develop complex geometries that satisfy given constraints aligns with SLS’s capability to manufacture sophisticated shapes with high precision. This combination unlocks new design possibilities that were previously unattainable using conventional manufacturing methods like FFF or resin printing. This benefit is very relevant in aerospace and automotive applications. For example, many components of cars and planes need to be lightweight to optimize fuel efficiency. Thus, a manufacturer in one of these industries can use generative design to create these complex parts. Then, they can subsequently leverage the high precision manufacturing capabilities of SLS to manufacture the design. The below image illustrates some parts that Hexcel Coporation has printed using SLS for Boeing.
+* **Benefit 1:** Firstly, generative design's ability to explore unconventional solutions and develop complex geometries that satisfy given constraints aligns with SLS’s capability to manufacture sophisticated shapes with high precision. This combination unlocks new design possibilities that were previously unattainable using conventional manufacturing methods like FFF or resin printing. This benefit is very relevant in aerospace and automotive applications. For example, many components of cars and planes need to be lightweight to optimize fuel efficiency. Thus, a manufacturer in one of these industries can use generative design to create these complex parts. Then, they can subsequently leverage the high precision manufacturing capabilities of SLS to manufacture the design. The below image illustrates some parts that Hexcel Corporation has printed using SLS for Boeing.
 
 <img src="/assets/img/Screenshot 2024-04-21 195813.png" alt="Image 3" style="display:flex; margin:auto;">
 
@@ -79,7 +79,7 @@ The unique benefits of the SLS manufacturing process and the generative design m
 <body>
 
 <div class="center">
-  <p><a href="https://www.3yourmind.com/news/functional-motorized-3d-printed-turbine-model-for-siemens">Siemiens turbine engine</a></p>
+  <p><a href="https://www.3yourmind.com/news/functional-motorized-3d-printed-turbine-model-for-siemens">Siemens turbine engine</a></p>
 </div>
 
 </body>
@@ -142,7 +142,7 @@ The unique benefits of the SLS manufacturing process and the generative design m
 
 ## Reflection on Generative Design
 
-The generative design process is most useful in applications where multiple, complex solutions to a problem are required. Therefore, when coupled with additive manufacturing techniques like SLS, generative design can be particularly useful in the automotive and aeronautical industries (see above discussion). As a biomedical engineer, I am curious how this technology will grow concurrently with developments in tissue engineering. I predict that in the future, generative design will be able to generate sophisticated tissue geometries that can be subsequently manufactured with novel additive manufacturing techniques. Nevertheless, generative design does have flaws. Firstly, it is very complex and requires a lot of practice to fully grasp. When designing the skateboard truck mount, I was initially very confused about how to leverage different obstacles and preserve geometry features to direct the AI into building my final part. However, through extensive practice during this project, I learned how to effectively design obstacles (red structures in the below images) and preserve gemotries (green structures) to guide the algorithm into building a part that satisfied the constraints of the truck hanger. 
+The generative design process is most useful in applications where multiple, complex solutions to a problem are required. Therefore, when coupled with additive manufacturing techniques like SLS, generative design can be particularly useful in the automotive and aeronautical industries (see above discussion). As a biomedical engineer, I am curious how this technology will grow concurrently with developments in tissue engineering. I predict that in the future, generative design will be able to generate sophisticated tissue geometries that can be subsequently manufactured with novel additive manufacturing techniques. Nevertheless, generative design does have flaws. Firstly, it is very complex and requires a lot of practice to fully grasp. When designing the skateboard truck mount, I was initially very confused about how to leverage different obstacles and preserve geometry features to direct the AI into building my final part. However, through extensive practice during this project, I learned how to effectively design obstacles (red structures in the below images) and preserve geometries (green structures) to guide the algorithm into building a part that satisfied the constraints of the truck hanger. 
 
 <html lang="en">
 <head>
@@ -179,10 +179,10 @@ Additionally, the generative design model required a strong fundamental understa
 | Shear Forces Pair 1 | 200 N     | Orthogonal to weight force|
 | Shear Force Pair 2 | 200 N     | Upwards and downwards     |
 | Pulley Tension Force | 200 N     | Orthogonal to wight force towards rod |
-| Motor Mount Moment 1 | 8 Nm | Resisitve to side-to-side motion of mount |
+| Motor Mount Moment 1 | 8 Nm | Resistive to side-to-side motion of mount |
 | Motor Mount Moment 2 | 8 Nm | Motor spinning direction/resistive to up-and-down motion of mount |
 
-Finally, a third challenge I experiencedwith generative design was its inability to produce models quickly. The generative design algorithm typically took 30 minutes to 1 hour to generate a single model, which made fine-tuning the model tedious. Overall, I think there is little benefit of generative design to individual projects that can be solved using traditional CAD practices. However, for individuals or companies that are manufacturing sophisticated or interconnected parts, I appreciate the power of leveraging this technology. 
+Finally, a third challenge I experienced with generative design was its inability to produce models quickly. The generative design algorithm typically took 30 minutes to 1 hour to generate a single model, which made fine-tuning the model tedious. Overall, I think there is little benefit of generative design to individual projects that can be solved using traditional CAD practices. However, for individuals or companies that are manufacturing sophisticated or interconnected parts, I appreciate the power of leveraging this technology. 
 
 ## CAD Models
 * **Aluminum Truck**
