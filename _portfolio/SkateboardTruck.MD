@@ -3,13 +3,13 @@ title: "Skateboard Truck Hanger"
 excerpt: "A skateboard truck hanger created using generative design and manufactured using an SLS printer with Nylon 12 powder."
 header:
   image: /assets/img/Screenshot 2024-04-21 150427.png
-  teaser:
+  teaser: /assets/img/IMG_3042.jpg
    
 ---
 
 ## Introduction to Generative Design and Powder Bed Fusion 
 
-Powder bed fusion (also known as powder-based selective laser sintering, or pSLS) is an additive manufacturing process in which the polymer powder is heated just below its melting point by a laser that traverses over its surface. The laser produces a small amount of energy that melts the powder into the desired geometry. For each successive layer, a thin layer of unfused powder is spread on top of the part. In this project, generative design was harnessed to create a truck hanger for an electric skateboard. Moreover, generative design is an iterative design process that uses artificial intelligence to create a singular, lightweight geometry based on the constraints that a manufacturer assigns to the model. In this project, generative design was harnessed to create a truck hanger for an electric skateboard. The truck also incorporated a motor mount for an electric DC motor.
+Powder bed fusion (also known as powder-based selective laser sintering, or pSLS) is an additive manufacturing process in which granular polymer powder is heated just below its melting point by a laser that traverses over its surface. The laser produces a small amount of energy that melts the powder into the desired geometry. For each successive layer, a thin layer of unfused powder is spread on top of the part. Moreover, generative design is an iterative design process that uses artificial intelligence to create a singular, lightweight geometry based on the constraints that a manufacturer assigns to the model. In this project, SLS and generative design were harnessed to create a truck hanger for an electric skateboard. The truck also incorporated a motor mount for an electric DC motor.
 
 <img src="/assets/img/SLSPritners.jpg" alt="Image 3" style="display:flex; margin:auto;">
 
