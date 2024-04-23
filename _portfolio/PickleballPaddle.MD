@@ -1,6 +1,6 @@
 ---
 title: "Pickleball Paddle"
-excerpt: "A multimaterial 3D-printed pickleball paddle optimized for a player who incorporates power and control into their play."
+excerpt: "A multi-material 3D-printed pickleball paddle optimized for a player who incorporates power and control into their play."
 header:
   image: /assets/img/RenderedFullPaddle.png
   teaser: /assets/img/Screenshot 2024-04-21 103038.png
