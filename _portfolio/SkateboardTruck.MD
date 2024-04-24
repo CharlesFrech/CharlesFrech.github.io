@@ -2,7 +2,7 @@
 title: "Skateboard Truck Hanger"
 excerpt: "A skateboard truck hanger created using generative design and manufactured using an SLS printer with Nylon 12 powder."
 header:
-  image: /assets/img/Screenshot 2024-04-21 150427.png
+  image: /assets/img/Screenshot 2024-04-24 181023.png
   teaser: /assets/img/IMG_3045.jpg
    
 ---
@@ -206,3 +206,7 @@ All information about generative design and SLS printing is attributed to the le
 <img src="/assets/img/IMG_3043.jpg" alt="Image 3" style="display:flex; margin:auto;">
 
 <img src="/assets/img/IMG_3042.jpg" alt="Image 3" style="display:flex; margin:auto;">
+
+<img src="/assets/img/Screenshot 2024-04-24 181628.png" alt="Image 3" style="display:flex; margin:auto;">
+
+<img src="/assets/img/Screenshot 2024-04-24 182545.png" alt="Image 3" style="display:flex; margin:auto;">
