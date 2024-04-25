@@ -182,7 +182,7 @@ Additionally, the generative design model required a strong fundamental understa
 | Motor Mount Moment 1 | 8 Nm | Resistive to side-to-side motion of mount |
 | Motor Mount Moment 2 | 8 Nm | Motor spinning direction/resistive to up-and-down motion of mount |
 
-Finally, a third challenge I experienced with generative design was its inability to produce models quickly. The generative design algorithm typically took 30 minutes to 1 hour to generate a single model, which made fine-tuning the model tedious. Overall, I think there is little benefit of generative design to individual projects that can be solved using traditional CAD practices. However, for individuals or companies that are manufacturing sophisticated or interconnected parts, I appreciate the power of leveraging this technology. 
+Finally, a third challenge I experienced with generative design was its inability to produce models quickly. The generative design algorithm typically took 30 minutes to 1 hour to generate a single model, which made fine-tuning the model tedious. Overall, I think there is little benefit in applying generative design to individual projects that can be solved using traditional CAD practices. However, for individuals or companies that are manufacturing sophisticated or interconnected parts, I appreciate the power of leveraging this technology. 
 
 ## CAD Models
 * **Aluminum Truck**
